@@ -1,0 +1,35 @@
+/*--------------------------------------------------------------------------------
+#### Pages -> Home -> Sections -> Message from director
+--------------------------------------------------------------------------------*/
+.message-from-director {
+    padding: 40px 0;
+
+    h2 {
+        margin-bottom: 30px;
+    }
+
+    img {
+        border-radius: 13px;
+    }
+
+    p {
+        color: $gray-700;
+        font-size: 20px;
+    }
+
+    h3 {
+        color: $gray-400;
+        margin-bottom: 3px;
+    }
+
+    h4 {
+        color: $gray-700;
+    }
+
+    .glide__arrow {
+        color: $black;
+        border-color: #808080;
+        bottom: unset;
+        top: -60px;
+    }
+}

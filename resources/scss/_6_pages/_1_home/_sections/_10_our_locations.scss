@@ -1,0 +1,36 @@
+/*--------------------------------------------------------------------------------
+#### Pages -> Home -> Sections -> Our Locations
+--------------------------------------------------------------------------------*/
+.our-locations {
+    padding: 40px 0;
+
+    h2 {
+        margin-bottom: 50px;
+    }
+
+    .ol-address {
+        display: flex;
+        padding-bottom: 30px;
+        margin-bottom: 35px;
+        margin-left: 25px;
+        position: relative;
+        border-bottom: 1px solid #eaecf0;
+
+        &::before {
+            content: '';
+            position: absolute;
+            left: -25px;
+            border-left: 1px solid #eaecf0;
+            height: 130px;
+        }
+
+        img {
+            margin-right: 28px;
+        }
+
+        p {
+            color: $gray-600;
+            margin-bottom: 0;
+        }
+    }
+}

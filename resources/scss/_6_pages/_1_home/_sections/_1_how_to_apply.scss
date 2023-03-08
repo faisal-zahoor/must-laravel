@@ -1,0 +1,27 @@
+/*--------------------------------------------------------------------------------
+#### Pages -> Home -> Sections -> how to apply
+--------------------------------------------------------------------------------*/
+.how-to-apply {
+    padding: 50px 0 30px;
+
+    .hta-content-right {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+
+        h2 {
+            margin-bottom: 15px;
+        }
+
+        p {
+            color: $gray-700;
+            margin-bottom: 28px;
+        }
+
+        .btn-icon i {
+            margin-left: 5px;
+            transform: rotate(-50deg);
+        }
+    }
+}

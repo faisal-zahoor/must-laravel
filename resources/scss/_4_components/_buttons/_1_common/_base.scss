@@ -1,0 +1,15 @@
+/*--------------------------------------------------------------------------------
+#### Components -> Buttons -> Common -> Base
+--------------------------------------------------------------------------------*/
+.btn {
+    --#{$prefix}btn-focus-box-shadow: null;
+
+    &.btn-transparent {
+        background: transparent;
+        border: none;
+
+        &.btn-primary {
+            color: $primary;
+        }
+    }
+}

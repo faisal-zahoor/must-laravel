@@ -1,0 +1,61 @@
+/*--------------------------------------------------------------------------------
+#### Components -> Img Overlay Text -> Common -> Version 2
+--------------------------------------------------------------------------------*/
+.img-overlay-text-v2 {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 25px;
+    overflow: hidden;
+
+    &::before {
+        content: '';
+        background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #000000 93.75%);
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0.8;
+        border-radius: 12px;
+    }
+
+    &:hover {
+        &::before {
+            background: linear-gradient(182.14deg, rgba(0, 0, 0, 0) 1.8%, #000000 4.14%);
+        }
+
+        .iot-content {
+            top: 0;
+            bottom: unset;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            height: 100%;
+        }
+
+        p,
+        span {
+            display: block;
+        }
+    }
+
+    img {
+        border-radius: 12px;
+    }
+
+    .iot-content {
+        position: absolute;
+        bottom: 0;
+        padding: 25px;
+    }
+
+    h3 {
+        color: $white;
+    }
+
+    p,
+    span {
+        color: $white;
+        display: none;
+    }
+}

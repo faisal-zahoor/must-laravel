@@ -1,0 +1,32 @@
+/*--------------------------------------------------------------------------------
+#### Pages -> Home -> Sections -> Degree Program
+--------------------------------------------------------------------------------*/
+.degree-program {
+    background: #101c3f;
+    padding: 80px 0 110px;
+
+    h2 {
+        color: $white;
+    }
+
+    p {
+        color: $gray-500;
+        margin-bottom: 30px;
+    }
+
+    .btn-icon i {
+        margin-left: 5px;
+        transform: rotate(-50deg);
+    }
+
+    .glide {
+        .glide__slide {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+        .glide__arrow {
+            bottom: -60px;
+        }
+    }
+}

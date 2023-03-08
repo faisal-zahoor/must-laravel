@@ -1,0 +1,13 @@
+// Variables -> Tables
+$table-cell-padding-y: 0.75rem;
+$table-cell-padding-x: 1rem;
+
+$table-color: var(--#{$prefix}body-color);
+$table-bg: transparent;
+$table-accent-bg: transparent;
+
+$table-th-font-weight: $font-weight-semibold;
+
+$table-border-factor: 0.1;
+$table-border-width: $border-width;
+$table-border-color: var(--#{$prefix}border-color);

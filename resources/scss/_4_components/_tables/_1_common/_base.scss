@@ -1,0 +1,25 @@
+/*--------------------------------------------------------------------------------
+#### Components -> Tables -> Common -> Base
+--------------------------------------------------------------------------------*/
+.table {
+    text-align: center;
+    border-color: #f2f4f7;
+
+    thead {
+        border-color: #f2f4f7;
+    }
+
+    tr {
+        th {
+            background: #f2f4f7;
+        }
+
+        th,
+        td {
+            font-size: 13px;
+            font-family: $font-family-sans-serif-2;
+            font-weight: $font-weight-medium;
+            color: $gray-700;
+        }
+    }
+}

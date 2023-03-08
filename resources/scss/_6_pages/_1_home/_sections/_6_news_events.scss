@@ -1,0 +1,50 @@
+/*--------------------------------------------------------------------------------
+#### Pages -> Home -> Sections -> News Events
+--------------------------------------------------------------------------------*/
+.news-events {
+    padding: 40px 0;
+
+    h2 {
+        margin-bottom: 30px;
+    }
+
+    .nav-tabs {
+        margin-bottom: 40px;
+
+        .nav-link {
+            font-weight: $font-weight-medium;
+            color: $gray-600;
+            border: none;
+
+            &.active {
+                color: $primary;
+                padding-bottom: 12px;
+                border: none;
+                border-bottom: 1px solid $primary;
+            }
+        }
+    }
+
+    img {
+        border-radius: 12px;
+        margin-bottom: 20px;
+    }
+
+    h3 {
+        font-weight: $font-weight-medium;
+        margin-bottom: 13px;
+    }
+
+    p {
+        color: $gray-700;
+        margin-bottom: 18px;
+    }
+
+    .btn {
+        color: $gray-900;
+        display: block;
+        border-color: #e5e7eb;
+        font-size: 14px;
+        margin-bottom: 25px;
+    }
+}

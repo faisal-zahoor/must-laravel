@@ -1,0 +1,16 @@
+/*--------------------------------------------------------------------------------
+#### Pages -> Home -> Sections -> Our Vision Mission
+--------------------------------------------------------------------------------*/
+.our-vision-mission {
+    padding: 50px 0;
+
+    .ovam-content-right {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    p {
+        color: $gray-700;
+    }
+}

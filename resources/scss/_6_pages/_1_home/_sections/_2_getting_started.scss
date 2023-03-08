@@ -1,0 +1,33 @@
+/*--------------------------------------------------------------------------------
+#### Pages -> Home -> Sections -> Getting Started
+--------------------------------------------------------------------------------*/
+.getting-started {
+    padding: 50px 0;
+
+    .gs-content-left {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .caption {
+        margin-bottom: 10px;
+        display: inline-block;
+    }
+
+    h2 {
+        margin-bottom: 60px;
+    }
+
+    h4 {
+        color: $gray-700;
+    }
+
+    .row {
+        margin-bottom: 40px;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+}

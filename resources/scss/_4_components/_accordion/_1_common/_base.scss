@@ -1,0 +1,51 @@
+/*--------------------------------------------------------------------------------
+#### Components -> Accordion -> Common -> Base
+--------------------------------------------------------------------------------*/
+.accordion {
+    table {
+        margin-bottom: 0;
+
+        tr td {
+            padding: 0;
+        }
+    }
+
+    .accordion-item {
+        margin-bottom: 20px;
+        border: 1px solid #d0d5dd;
+        border-radius: 8px;
+    }
+
+    .accordion-button {
+        background-color: $white;
+        box-shadow: none;
+        border-radius: 8px !important;
+
+        &::after {
+            background: none;
+        }
+
+        h3 {
+            font-weight: $font-weight-medium;
+        }
+    }
+
+    .badge {
+        font-weight: $font-weight-medium;
+        font-size: 14px;
+
+        &.bg-primary {
+            color: $primary;
+            background-color: #fff6ed !important;
+        }
+    }
+
+    .btn-view-job {
+        color: $gray-700;
+        margin-right: 10px;
+    }
+
+    .btn-primary {
+        color: $white;
+    }
+}

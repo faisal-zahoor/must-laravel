@@ -1,0 +1,42 @@
+/*--------------------------------------------------------------------------------
+#### Components -> Cards -> Common -> Card Testimonial
+--------------------------------------------------------------------------------*/
+.card-testimonial {
+    background: $blue;
+    border-radius: 24px;
+    display: flex;
+
+    .ct-content {
+        padding: 75px 55px 70px 42px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .ct-stars {
+        margin-bottom: 20px;
+    }
+
+    i {
+        color: $warning;
+    }
+
+    p {
+        color: $white;
+        font-size: 30px;
+        margin-bottom: 25px;
+    }
+
+    h3 {
+        color: $white;
+    }
+
+    h4 {
+        color: #d5d9eb;
+    }
+
+    img {
+        border-top-right-radius: 24px;
+        border-bottom-right-radius: 24px;
+    }
+}

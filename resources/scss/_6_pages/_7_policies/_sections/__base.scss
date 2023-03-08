@@ -1,0 +1,48 @@
+/*--------------------------------------------------------------------------------
+#### Pages -> Policies -> Sections -> Base
+--------------------------------------------------------------------------------*/
+.policies {
+    padding: 30px 0 50px;
+
+    @media (min-width: 768px) {
+        .col-md-10 {
+            width: 88%;
+        }
+
+        .col-md-2 {
+            width: 12%;
+        }
+    }
+
+    .btn-outline-primary {
+        border: none;
+        padding: 0;
+
+        span {
+            margin-right: 5px;
+        }
+
+        &:hover,
+        &:active,
+        &:focus {
+            background: transparent;
+            color: $primary;
+        }
+    }
+
+    .policies-head {
+        padding: 22px 28px;
+
+        h6 {
+            color: $gray-700;
+        }
+    }
+
+    .policies-item {
+        background: $white;
+        border: 1px solid #d0d5dd;
+        border-radius: 8px;
+        padding: 24px 28px;
+        margin-bottom: 20px;
+    }
+}

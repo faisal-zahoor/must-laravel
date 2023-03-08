@@ -1,0 +1,5 @@
+// Variables -> Animations
+
+$uom-trans-duration: 0.3s;
+$uom-trans-ease: cubic-bezier(0.25, 0.75, 0.5, 1);
+$uom-trans: all $uom-trans-duration $uom-trans-ease;

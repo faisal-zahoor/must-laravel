@@ -1,0 +1,30 @@
+/*--------------------------------------------------------------------------------
+#### Components -> Call To Action -> Common -> Base
+--------------------------------------------------------------------------------*/
+.cta-wrap {
+    padding: 50px 0;
+}
+
+.call-to-action {
+    background-color: $gray-100;
+    border-radius: 16px;
+    text-align: center;
+    padding: 30px;
+
+    img {
+        margin-bottom: 30px;
+    }
+
+    h2 {
+        font-family: $font-family-base;
+    }
+
+    p {
+        color: $gray-700;
+        margin-bottom: 30px;
+    }
+
+    .btn {
+        color: $white;
+    }
+}

@@ -1,0 +1,17 @@
+/*--------------------------------------------------------------------------------
+### Component -> Cards
+--------------------------------------------------------------------------------*/
+// Mixins
+@import '__mixins/mixins';
+
+// Variables
+@import '__variables/variables';
+
+/*--------------------------------------------------------------------------------
+### Component -> Cards -> Common
+--------------------------------------------------------------------------------*/
+@import '_1_common/base';
+@import '_1_common/card_rating';
+@import '_1_common/card_testimonial';
+@import '_1_common/card_admission_form';
+@import '_1_common/card_login';

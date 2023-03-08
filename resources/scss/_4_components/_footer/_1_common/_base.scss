@@ -1,0 +1,97 @@
+/*--------------------------------------------------------------------------------
+#### Components -> Footer -> Common -> Base
+--------------------------------------------------------------------------------*/
+.footer {
+    padding: 50px 0 0;
+
+    .ft-container {
+        border-top: 1px solid #eaecf0;
+        border-bottom: 1px solid #eaecf0;
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .footer-logo {
+        margin-bottom: 30px;
+    }
+
+    .badge {
+        background-color: #ecfdf3 !important;
+        color: #027a48;
+    }
+
+    p {
+        color: $gray-700;
+    }
+
+    .first-col {
+        width: 40%;
+    }
+
+    .second-col {
+        width: 23%;
+    }
+
+    .third-col {
+        width: 17%;
+    }
+
+    .fourth-col {
+        width: 20%;
+    }
+
+    .footer-heading {
+        color: $gray-400;
+        font-weight: $font-weight-semibold;
+        margin-bottom: 18px;
+    }
+
+    ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+
+        li {
+            margin-bottom: 15px;
+
+            a {
+                color: $gray-700;
+                font-weight: $font-weight-semibold;
+                transition: all 0.3s ease-in;
+
+                &:hover {
+                    color: $primary;
+                }
+            }
+        }
+    }
+}
+
+.copyright {
+    padding: 30px 0 40px;
+
+    p {
+        color: $gray-400;
+    }
+
+    .social-icons {
+        display: flex;
+        justify-content: flex-end;
+
+        li {
+            margin: 0 12px;
+        }
+
+        a {
+            color: $gray-400;
+
+            &:hover {
+                color: $primary;
+            }
+        }
+
+        i {
+            font-size: 24px;
+        }
+    }
+}

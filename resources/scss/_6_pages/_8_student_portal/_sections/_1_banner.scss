@@ -1,0 +1,42 @@
+/*--------------------------------------------------------------------------------
+#### Pages -> Student Portal -> Sections -> Banner
+--------------------------------------------------------------------------------*/
+.auth-banner {
+    background: url('../images/contact/contact.jpg') no-repeat center;
+    min-height: 628px;
+    margin-bottom: 300px;
+
+    .ab-content-right {
+        position: relative;
+    }
+
+    .card-login {
+        position: absolute;
+        width: 100%;
+    }
+
+    .ab-icon-text {
+        display: flex;
+        margin-bottom: 10px;
+
+        p {
+            color: $white;
+        }
+
+        a {
+            color: $white;
+
+            &:hover {
+                color: darken($white, 10%);
+            }
+        }
+
+        span {
+            margin-right: 15px;
+        }
+
+        i {
+            color: $white;
+        }
+    }
+}

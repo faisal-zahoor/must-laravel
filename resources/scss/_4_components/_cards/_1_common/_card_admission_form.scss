@@ -1,0 +1,27 @@
+/*--------------------------------------------------------------------------------
+#### Components -> Cards -> Common -> Card Admission Form
+--------------------------------------------------------------------------------*/
+.card-admission-form {
+    background: #f2f4f7;
+    border-radius: 12px;
+    padding: 30px 30px 25px;
+
+    .btn {
+        &.btn-primary {
+            color: $white;
+            margin-bottom: 15px;
+        }
+
+        &.btn-light {
+            color: $gray-700;
+            background: $white;
+            margin-bottom: 20px;
+        }
+    }
+
+    p {
+        color: $gray-700;
+        font-size: 14px;
+        font-weight: $font-weight-medium;
+    }
+}

@@ -1,0 +1,66 @@
+// Variables -> Buttons
+//
+// For each of Bootstrap's buttons, define text, background, and border color.
+// scss-docs-start btn-variables
+
+// Button Sizes
+$btn-padding-y: 11px;
+$btn-padding-x: 17px;
+$btn-font-family: $input-btn-font-family;
+$btn-font-size: 16px;
+$btn-line-height: $input-btn-line-height;
+$btn-white-space: null; // Set to `nowrap` to prevent text wrapping
+$btn-icon-p-right: 50px;
+
+// SM
+$btn-padding-y-sm: 4px;
+$btn-padding-x-sm: 25px;
+$btn-font-size-sm: 16px;
+$btn-icon-gutter-sm: $input-btn-font-size-sm * 0.45;
+$btn-icon-p-right-sm: 30px;
+
+// LG
+$btn-padding-y-lg: 17px;
+$btn-padding-x-lg: 30px;
+$btn-font-size-lg: 16px;
+$btn-icon-gutter-lg: $input-btn-font-size-lg * 0.45;
+$btn-icon-p-right-lg: 70px;
+
+// Gutter space
+$btn-icon-margin: 15px;
+$btn-icon-size: 20px;
+$btn-height: 31px;
+$btn-icon-gutter: $input-btn-font-size * 0.45;
+
+$btn-border-width: $input-btn-border-width;
+
+$btn-font-weight: $font-weight-semibold;
+$btn-box-shadow: null;
+$btn-focus-width: $input-btn-focus-width;
+$btn-focus-box-shadow: null;
+$btn-disabled-opacity: 0.65;
+$btn-active-box-shadow: null;
+
+$btn-link-color: var(--#{$prefix}link-color);
+$btn-link-hover-color: var(--#{$prefix}link-hover-color);
+$btn-link-disabled-color: $gray-600;
+
+// Btn Border Radius
+$btn-border-radius: 4px;
+$btn-border-radius-sm: $btn-border-radius;
+$btn-border-radius-lg: $btn-border-radius;
+
+// Btn Transition
+$btn-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+
+// Btn Hover
+$btn-hover-bg-shade-amount: 15%;
+$btn-hover-bg-tint-amount: 15%;
+$btn-hover-border-shade-amount: 20%;
+$btn-hover-border-tint-amount: 10%;
+
+// Btn Active
+$btn-active-bg-shade-amount: 20%;
+$btn-active-bg-tint-amount: 20%;
+$btn-active-border-shade-amount: 25%;
+$btn-active-border-tint-amount: 10%;

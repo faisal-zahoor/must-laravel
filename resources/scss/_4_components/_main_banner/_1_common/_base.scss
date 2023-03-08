@@ -1,0 +1,70 @@
+/*--------------------------------------------------------------------------------
+#### Components -> Main Banner -> Common -> Base
+--------------------------------------------------------------------------------*/
+.main-banner {
+    background: url('../images/banner.jpg') no-repeat center;
+    background-size: cover;
+    position: relative;
+    padding: 230px 0 160px;
+    margin-bottom: 50px;
+
+    &::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.85);
+    }
+
+    > div {
+        position: relative;
+        z-index: 2;
+    }
+
+    h1 {
+        color: $white;
+        margin-bottom: 18px;
+    }
+
+    p {
+        color: $gray-800;
+        margin-bottom: 30px;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+
+    .btn {
+        margin-right: 15px;
+
+        &:not(:hover) {
+            color: $white;
+        }
+
+        &:last-child {
+            margin-right: 0;
+        }
+    }
+
+    .btn-outline-light {
+        border: none;
+
+        &:hover,
+        &:active,
+        &:focus {
+            color: var(--bs-btn-hover-color);
+            background-color: var(--bs-btn-hover-bg);
+
+            svg path {
+                stroke: #000;
+            }
+        }
+
+        span {
+            margin-left: 10px;
+        }
+    }
+}

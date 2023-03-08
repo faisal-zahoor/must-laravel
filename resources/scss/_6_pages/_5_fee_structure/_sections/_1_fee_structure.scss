@@ -1,0 +1,22 @@
+/*--------------------------------------------------------------------------------
+#### Pages -> Fee Structure -> Sections -> Fee Structure
+--------------------------------------------------------------------------------*/
+.fee-structure {
+    padding: 50px 0;
+
+    h2 {
+        margin-bottom: 30px;
+    }
+
+    .table {
+        tr {
+            th:first-child {
+                text-align: left;
+            }
+
+            td:first-child {
+                text-align: left;
+            }
+        }
+    }
+}
