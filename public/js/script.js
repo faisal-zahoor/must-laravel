@@ -5871,6 +5871,12 @@ class Header {
             false
         );
 
+        if (window.pageYOffset > 100) {
+            bodyEl.classList.add(ThisClass.stickyHeader);
+        } else {
+            bodyEl.classList.remove(ThisClass.stickyHeader);
+        }
+
         // Smooth Scroll
         // document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
         //     anchor.addEventListener('click', function (e) {

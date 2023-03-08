@@ -9,12 +9,9 @@
     <div class="main-banner-v2">
         <div id="mainBannerIndicators" class="carousel slide" data-bs-ride="true">
             <div class="carousel-indicators">
-                <button type="button" data-bs-target="#mainBannerIndicators" data-bs-slide-to="0" class="active"
-                    aria-current="true" aria-label="Slide 1"></button>
-                <button type="button" data-bs-target="#mainBannerIndicators" data-bs-slide-to="1"
-                    aria-label="Slide 2"></button>
-                <button type="button" data-bs-target="#mainBannerIndicators" data-bs-slide-to="2"
-                    aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#mainBannerIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#mainBannerIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#mainBannerIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active" style="background-image: url('images/banner.jpg')">
@@ -103,7 +100,7 @@
                 <div class="offset-lg-1 col-lg-6 hta-content-right" data-aos="fade-left" data-aos-duration="400"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
                     <h2>How To Apply</h2>
-                    <p>Unlock Your Potential: Step-by-Step Guide to Applying for University Of Multan</p>
+                    <p>Unlock Your Potential: Step-by-Step Guide to Applying for Multan University Of Science and Technology</p>
                     <a href="apply-now" class="text-primary fw-600 btn-icon">
                         <span>Apply Now</span>
                         <i class="fa fa-arrow-right"></i>
@@ -124,7 +121,7 @@
                 </div>
                 <div class="offset-lg-1 col-lg-6 hta-content-right" data-aos="fade-left" data-aos-duration="400"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <h2>Why UOM?</h2>
+                    <h2>Why MUST?</h2>
                     <p>
                         Our university stands out for its exceptional academic programs, supportive campus community, and
                         opportunities
@@ -163,11 +160,11 @@
                     </div>
                     <div class="row">
                         <div class="col-md-6">
-                            <h3 class="display-1 text-primary">50+</h3>
+                            <h3 class="display-1 text-primary">16+</h3>
                             <h4 class="h6">Degree Program</h4>
                         </div>
                         <div class="col-md-6">
-                            <h3 class="display-1 text-primary">600+</h3>
+                            <h3 class="display-1 text-primary">400+</h3>
                             <h4 class="h6">Faculty Members</h4>
                         </div>
                     </div>
@@ -197,8 +194,8 @@
                     data-aos-easing="ease-in-sine" data-aos-once="true">
                     <div class="card card-rating">
                         <img src="images/set-us-apart-one.svg" alt="Set us Apart" height="120" width="114" />
-                        <h3>Technol</h3>
-                        <p>ogically Equipped Campus</p>
+                        <h3>Technologically</h3>
+                        <p>Equipped Campus</p>
                     </div>
                 </div>
                 <div class="col-md-3" data-aos="fade-up" data-aos-duration="400" data-aos-delay="300"
@@ -213,8 +210,8 @@
                     data-aos-easing="ease-in-sine" data-aos-once="true">
                     <div class="card card-rating">
                         <img src="images/set-us-apart-sec.svg" alt="Set us Apart" height="120" width="114" />
-                        <h3>ENTREPR</h3>
-                        <p>ENURIAL AND FIELD ORIENTED LEARNING</p>
+                        <h3>ENTREPRENURIAL</h3>
+                        <p>AND FIELD ORIENTED LEARNING</p>
                     </div>
                 </div>
                 <div class="col-md-3" data-aos="fade-up" data-aos-duration="400" data-aos-delay="500"
