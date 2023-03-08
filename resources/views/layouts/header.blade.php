@@ -65,13 +65,13 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="addmissions">Admission</a>
+                        <a class="nav-link" href="apply-now">Admission</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="academics">Academics</a>
                     </li>
                 </ul>
-                <a href="addmissions" class="btn btn-primary">Apply Now</a>
+                <a href="apply-now" class="btn btn-primary">Apply Now</a>
             </div>
         </div>
     </nav>

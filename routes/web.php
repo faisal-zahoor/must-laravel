@@ -37,12 +37,8 @@ Route::get('governance', function () {
     return view('governance');
 });
 
-Route::get('addmissions', function () {
-    return view('programs');
-});
-
 Route::get('academics', function () {
-    return view('academics');
+    return view('programs');
 });
 
 Route::get('coming-soon', function () {

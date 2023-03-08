@@ -52,7 +52,7 @@
                             We committed to provide our students the knowledge, skills, <br />
                             and resources they need to become leaders in their chosen fields.
                         </p>
-                        <a href="addmissions" class="btn btn-lg btn-primary" data-aos="fade-zoom-in"
+                        <a href="apply-now" class="btn btn-lg btn-primary" data-aos="fade-zoom-in"
                             data-aos-duration="300" data-aos-delay="200" data-aos-easing="ease-in-sine"
                             data-aos-once="true">Apply Now</a>
                         <a href="coming-soon" class="btn btn-lg btn-outline-light" data-bs-toggle="modal"
@@ -75,7 +75,7 @@
                             We committed to provide our students the knowledge, skills, <br />
                             and resources they need to become leaders in their chosen fields.
                         </p>
-                        <a href="addmissions" class="btn btn-lg btn-primary" data-aos="fade-zoom-in"
+                        <a href="apply-now" class="btn btn-lg btn-primary" data-aos="fade-zoom-in"
                             data-aos-duration="300" data-aos-delay="200" data-aos-easing="ease-in-sine"
                             data-aos-once="true">Apply Now</a>
                         <a href="coming-soon" class="btn btn-lg btn-outline-light" data-bs-toggle="modal"
@@ -104,7 +104,7 @@
                     data-aos-easing="ease-in-sine" data-aos-once="true">
                     <h2>How To Apply</h2>
                     <p>Unlock Your Potential: Step-by-Step Guide to Applying for University Of Multan</p>
-                    <a href="addmissions" class="text-primary fw-600 btn-icon">
+                    <a href="apply-now" class="text-primary fw-600 btn-icon">
                         <span>Apply Now</span>
                         <i class="fa fa-arrow-right"></i>
                     </a>
