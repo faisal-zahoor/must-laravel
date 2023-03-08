@@ -11,9 +11,9 @@
             <h1 data-aos="fade-zoom-in" data-aos-duration="300" data-aos-easing="ease-in-sine" data-aos-once="true">
                 Vision & Mission UOM
             </h1>
-            <a href="student-portal.html" class="btn btn-lg btn-primary" data-aos="fade-zoom-in" data-aos-duration="300"
+            <a href="apply-now" class="btn btn-lg btn-primary" data-aos="fade-zoom-in" data-aos-duration="300"
                 data-aos-delay="100" data-aos-easing="ease-in-sine" data-aos-once="true">Apply Now</a>
-            <a href="coming-soon.html" class="btn btn-lg btn-outline-light" data-bs-toggle="modal"
+            <a href="coming-soon" class="btn btn-lg btn-outline-light" data-bs-toggle="modal"
                 data-bs-target="#watchvideoModal" data-aos="fade-zoom-in" data-aos-duration="300" data-aos-delay="200"
                 data-aos-easing="ease-in-sine" data-aos-once="true">
                 <i class="fa fa-play"></i>

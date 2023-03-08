@@ -887,42 +887,42 @@
                     <div>
                         <div class="bd-example">
                             <div class="alert alert-primary alert-dismissible fade show" role="alert">
-                                A simple primary alert with <a href="/degree-overview.html)" class="alert-link">an example link</a>. Give it
+                                A simple primary alert with <a href="/degree" class="alert-link">an example link</a>. Give it
                                 a click if you like.
                                 <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
                             </div>
                             <div class="alert alert-secondary alert-dismissible fade show" role="alert">
-                                A simple secondary alert with <a href="/degree-overview.html)" class="alert-link">an example link</a>. Give
+                                A simple secondary alert with <a href="/degree" class="alert-link">an example link</a>. Give
                                 it a click if you like.
                                 <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
                             </div>
                             <div class="alert alert-success alert-dismissible fade show" role="alert">
-                                A simple success alert with <a href="/degree-overview.html)" class="alert-link">an example link</a>. Give it
+                                A simple success alert with <a href="/degree" class="alert-link">an example link</a>. Give it
                                 a click if you like.
                                 <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
                             </div>
                             <div class="alert alert-danger alert-dismissible fade show" role="alert">
-                                A simple danger alert with <a href="/degree-overview.html)" class="alert-link">an example link</a>. Give it
+                                A simple danger alert with <a href="/degree" class="alert-link">an example link</a>. Give it
                                 a click if you like.
                                 <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
                             </div>
                             <div class="alert alert-warning alert-dismissible fade show" role="alert">
-                                A simple warning alert with <a href="/degree-overview.html)" class="alert-link">an example link</a>. Give it
+                                A simple warning alert with <a href="/degree" class="alert-link">an example link</a>. Give it
                                 a click if you like.
                                 <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
                             </div>
                             <div class="alert alert-info alert-dismissible fade show" role="alert">
-                                A simple info alert with <a href="/degree-overview.html)" class="alert-link">an example link</a>. Give it a
+                                A simple info alert with <a href="/degree" class="alert-link">an example link</a>. Give it a
                                 click if you like.
                                 <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
                             </div>
                             <div class="alert alert-light alert-dismissible fade show" role="alert">
-                                A simple light alert with <a href="/degree-overview.html)" class="alert-link">an example link</a>. Give it a
+                                A simple light alert with <a href="/degree" class="alert-link">an example link</a>. Give it a
                                 click if you like.
                                 <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
                             </div>
                             <div class="alert alert-dark alert-dismissible fade show" role="alert">
-                                A simple dark alert with <a href="/degree-overview.html)" class="alert-link">an example link</a>. Give it a
+                                A simple dark alert with <a href="/degree" class="alert-link">an example link</a>. Give it a
                                 click if you like.
                                 <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
                             </div>
@@ -983,8 +983,8 @@
                         <div class="bd-example">
                             <nav aria-label="breadcrumb">
                                 <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href="/degree-overview.html)">Home</a></li>
-                                    <li class="breadcrumb-item"><a href="/degree-overview.html)">Library</a></li>
+                                    <li class="breadcrumb-item"><a href="/degree">Home</a></li>
+                                    <li class="breadcrumb-item"><a href="/degree">Library</a></li>
                                     <li class="breadcrumb-item active" aria-current="page">Data</li>
                                 </ol>
                             </nav>
@@ -1090,7 +1090,7 @@
                                                 Some quick example text to build on the card title and make up the bulk of the card's
                                                 content.
                                             </p>
-                                            <a href="/degree-overview.html)" class="btn btn-primary">Go somewhere</a>
+                                            <a href="/degree" class="btn btn-primary">Go somewhere</a>
                                         </div>
                                     </div>
                                 </div>
@@ -1103,7 +1103,7 @@
                                                 Some quick example text to build on the card title and make up the bulk of the card's
                                                 content.
                                             </p>
-                                            <a href="/degree-overview.html)" class="btn btn-primary">Go somewhere</a>
+                                            <a href="/degree" class="btn btn-primary">Go somewhere</a>
                                         </div>
                                         <div class="card-footer text-muted">2 days ago</div>
                                     </div>
@@ -1123,8 +1123,8 @@
                                             <li class="list-group-item">A third item</li>
                                         </ul>
                                         <div class="card-body">
-                                            <a href="/degree-overview.html)" class="card-link">Card link</a>
-                                            <a href="/degree-overview.html)" class="card-link">Another link</a>
+                                            <a href="/degree" class="card-link">Card link</a>
+                                            <a href="/degree" class="card-link">Another link</a>
                                         </div>
                                     </div>
                                 </div>
@@ -1307,11 +1307,11 @@
                                     </button>
                                     <ul class="dropdown-menu" aria-labelledby="dropdownMenuButtonSM">
                                         <li><h6 class="dropdown-header">Dropdown header</h6></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Action</a></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Another action</a></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Something else here</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Action</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Another action</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Something else here</a></li>
                                         <li><hr class="dropdown-divider" /></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Separated link</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Separated link</a></li>
                                     </ul>
                                 </div>
                                 <div class="dropdown">
@@ -1326,11 +1326,11 @@
                                     </button>
                                     <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                                         <li><h6 class="dropdown-header">Dropdown header</h6></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Action</a></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Another action</a></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Something else here</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Action</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Another action</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Something else here</a></li>
                                         <li><hr class="dropdown-divider" /></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Separated link</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Separated link</a></li>
                                     </ul>
                                 </div>
                                 <div class="dropdown">
@@ -1345,11 +1345,11 @@
                                     </button>
                                     <ul class="dropdown-menu" aria-labelledby="dropdownMenuButtonLG">
                                         <li><h6 class="dropdown-header">Dropdown header</h6></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Action</a></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Another action</a></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Something else here</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Action</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Another action</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Something else here</a></li>
                                         <li><hr class="dropdown-divider" /></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Separated link</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Separated link</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -1367,9 +1367,9 @@
                                     <span class="visually-hidden">Toggle Dropdown</span>
                                 </button>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="/degree-overview.html)">Action</a></li>
-                                    <li><a class="dropdown-item" href="/degree-overview.html)">Another action</a></li>
-                                    <li><a class="dropdown-item" href="/degree-overview.html)">Something else here</a></li>
+                                    <li><a class="dropdown-item" href="/degree">Action</a></li>
+                                    <li><a class="dropdown-item" href="/degree">Another action</a></li>
+                                    <li><a class="dropdown-item" href="/degree">Something else here</a></li>
                                 </ul>
                             </div>
                             <!-- /btn-group -->
@@ -1384,9 +1384,9 @@
                                     <span class="visually-hidden">Toggle Dropdown</span>
                                 </button>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="/degree-overview.html)">Action</a></li>
-                                    <li><a class="dropdown-item" href="/degree-overview.html)">Another action</a></li>
-                                    <li><a class="dropdown-item" href="/degree-overview.html)">Something else here</a></li>
+                                    <li><a class="dropdown-item" href="/degree">Action</a></li>
+                                    <li><a class="dropdown-item" href="/degree">Another action</a></li>
+                                    <li><a class="dropdown-item" href="/degree">Something else here</a></li>
                                 </ul>
                             </div>
                             <!-- /btn-group -->
@@ -1401,9 +1401,9 @@
                                     <span class="visually-hidden">Toggle Dropdown</span>
                                 </button>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="/degree-overview.html)">Action</a></li>
-                                    <li><a class="dropdown-item" href="/degree-overview.html)">Another action</a></li>
-                                    <li><a class="dropdown-item" href="/degree-overview.html)">Something else here</a></li>
+                                    <li><a class="dropdown-item" href="/degree">Action</a></li>
+                                    <li><a class="dropdown-item" href="/degree">Another action</a></li>
+                                    <li><a class="dropdown-item" href="/degree">Something else here</a></li>
                                 </ul>
                             </div>
                             <!-- /btn-group -->
@@ -1418,9 +1418,9 @@
                                     <span class="visually-hidden">Toggle Dropdown</span>
                                 </button>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="/degree-overview.html)">Action</a></li>
-                                    <li><a class="dropdown-item" href="/degree-overview.html)">Another action</a></li>
-                                    <li><a class="dropdown-item" href="/degree-overview.html)">Something else here</a></li>
+                                    <li><a class="dropdown-item" href="/degree">Action</a></li>
+                                    <li><a class="dropdown-item" href="/degree">Another action</a></li>
+                                    <li><a class="dropdown-item" href="/degree">Something else here</a></li>
                                 </ul>
                             </div>
                             <!-- /btn-group -->
@@ -1435,9 +1435,9 @@
                                     <span class="visually-hidden">Toggle Dropdown</span>
                                 </button>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="/degree-overview.html)">Action</a></li>
-                                    <li><a class="dropdown-item" href="/degree-overview.html)">Another action</a></li>
-                                    <li><a class="dropdown-item" href="/degree-overview.html)">Something else here</a></li>
+                                    <li><a class="dropdown-item" href="/degree">Action</a></li>
+                                    <li><a class="dropdown-item" href="/degree">Another action</a></li>
+                                    <li><a class="dropdown-item" href="/degree">Something else here</a></li>
                                 </ul>
                             </div>
                             <!-- /btn-group -->
@@ -1452,9 +1452,9 @@
                                     <span class="visually-hidden">Toggle Dropdown</span>
                                 </button>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="/degree-overview.html)">Action</a></li>
-                                    <li><a class="dropdown-item" href="/degree-overview.html)">Another action</a></li>
-                                    <li><a class="dropdown-item" href="/degree-overview.html)">Something else here</a></li>
+                                    <li><a class="dropdown-item" href="/degree">Action</a></li>
+                                    <li><a class="dropdown-item" href="/degree">Another action</a></li>
+                                    <li><a class="dropdown-item" href="/degree">Something else here</a></li>
                                 </ul>
                             </div>
                             <!-- /btn-group -->
@@ -1474,11 +1474,11 @@
                                     </button>
                                     <ul class="dropdown-menu" aria-labelledby="dropendMenuButton">
                                         <li><h6 class="dropdown-header">Dropdown header</h6></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Action</a></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Another action</a></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Something else here</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Action</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Another action</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Something else here</a></li>
                                         <li><hr class="dropdown-divider" /></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Separated link</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Separated link</a></li>
                                     </ul>
                                 </div>
                                 <div class="dropup">
@@ -1493,11 +1493,11 @@
                                     </button>
                                     <ul class="dropdown-menu" aria-labelledby="dropupMenuButton">
                                         <li><h6 class="dropdown-header">Dropdown header</h6></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Action</a></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Another action</a></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Something else here</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Action</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Another action</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Something else here</a></li>
                                         <li><hr class="dropdown-divider" /></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Separated link</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Separated link</a></li>
                                     </ul>
                                 </div>
                                 <div class="dropstart">
@@ -1512,11 +1512,11 @@
                                     </button>
                                     <ul class="dropdown-menu" aria-labelledby="dropstartMenuButton">
                                         <li><h6 class="dropdown-header">Dropdown header</h6></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Action</a></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Another action</a></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Something else here</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Action</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Another action</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Something else here</a></li>
                                         <li><hr class="dropdown-divider" /></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Separated link</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Separated link</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -1536,10 +1536,10 @@
                                     </button>
                                     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="dropdownRightMenuButton">
                                         <li><h6 class="dropdown-header">Dropdown header</h6></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Action</a></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Another action</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Action</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Another action</a></li>
                                         <li><hr class="dropdown-divider" /></li>
-                                        <li><a class="dropdown-item" href="/degree-overview.html)">Separated link</a></li>
+                                        <li><a class="dropdown-item" href="/degree">Separated link</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -1577,32 +1577,32 @@
 
                         <div class="bd-example">
                             <div class="list-group">
-                                <a href="/degree-overview.html)" class="list-group-item list-group-item-action"
+                                <a href="/degree" class="list-group-item list-group-item-action"
                                     >A simple default list group item</a
                                 >
 
-                                <a href="/degree-overview.html)" class="list-group-item list-group-item-action list-group-item-primary"
+                                <a href="/degree" class="list-group-item list-group-item-action list-group-item-primary"
                                     >A simple primary list group item</a
                                 >
-                                <a href="/degree-overview.html)" class="list-group-item list-group-item-action list-group-item-secondary"
+                                <a href="/degree" class="list-group-item list-group-item-action list-group-item-secondary"
                                     >A simple secondary list group item</a
                                 >
-                                <a href="/degree-overview.html)" class="list-group-item list-group-item-action list-group-item-success"
+                                <a href="/degree" class="list-group-item list-group-item-action list-group-item-success"
                                     >A simple success list group item</a
                                 >
-                                <a href="/degree-overview.html)" class="list-group-item list-group-item-action list-group-item-danger"
+                                <a href="/degree" class="list-group-item list-group-item-action list-group-item-danger"
                                     >A simple danger list group item</a
                                 >
-                                <a href="/degree-overview.html)" class="list-group-item list-group-item-action list-group-item-warning"
+                                <a href="/degree" class="list-group-item list-group-item-action list-group-item-warning"
                                     >A simple warning list group item</a
                                 >
-                                <a href="/degree-overview.html)" class="list-group-item list-group-item-action list-group-item-info"
+                                <a href="/degree" class="list-group-item list-group-item-action list-group-item-info"
                                     >A simple info list group item</a
                                 >
-                                <a href="/degree-overview.html)" class="list-group-item list-group-item-action list-group-item-light"
+                                <a href="/degree" class="list-group-item list-group-item-action list-group-item-light"
                                     >A simple light list group item</a
                                 >
-                                <a href="/degree-overview.html)" class="list-group-item list-group-item-action list-group-item-dark"
+                                <a href="/degree" class="list-group-item list-group-item-action list-group-item-dark"
                                     >A simple dark list group item</a
                                 >
                             </div>
@@ -1655,10 +1655,10 @@
                     <div>
                         <div class="bd-example">
                             <nav class="nav">
-                                <a class="nav-link active" aria-current="page" href="/degree-overview.html)">Active</a>
-                                <a class="nav-link" href="/degree-overview.html)">Link</a>
-                                <a class="nav-link" href="/degree-overview.html)">Link</a>
-                                <a class="nav-link disabled" href="/degree-overview.html)" tabindex="-1" aria-disabled="true">Disabled</a>
+                                <a class="nav-link active" aria-current="page" href="/degree">Active</a>
+                                <a class="nav-link" href="/degree">Link</a>
+                                <a class="nav-link" href="/degree">Link</a>
+                                <a class="nav-link disabled" href="/degree" tabindex="-1" aria-disabled="true">Disabled</a>
                             </nav>
                         </div>
 
@@ -1734,16 +1734,16 @@
                         <div class="bd-example">
                             <ul class="nav nav-pills">
                                 <li class="nav-item">
-                                    <a class="nav-link active" aria-current="page" href="/degree-overview.html)">Active</a>
+                                    <a class="nav-link active" aria-current="page" href="/degree">Active</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="/degree-overview.html)">Link</a>
+                                    <a class="nav-link" href="/degree">Link</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="/degree-overview.html)">Link</a>
+                                    <a class="nav-link" href="/degree">Link</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link disabled" href="/degree-overview.html)" tabindex="-1" aria-disabled="true"
+                                    <a class="nav-link disabled" href="/degree" tabindex="-1" aria-disabled="true"
                                         >Disabled</a
                                     >
                                 </li>
@@ -1761,7 +1761,7 @@
                         <div class="bd-example">
                             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                                 <div class="container-fluid">
-                                    <a class="navbar-brand" href="index.html"> </a>
+                                    <a class="navbar-brand" href="/"> </a>
                                     <button
                                         class="navbar-toggler"
                                         type="button"
@@ -1776,15 +1776,15 @@
                                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                                             <li class="nav-item">
-                                                <a class="nav-link active" aria-current="page" href="/degree-overview.html)">Home</a>
+                                                <a class="nav-link active" aria-current="page" href="/degree">Home</a>
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="/degree-overview.html)">Link</a>
+                                                <a class="nav-link" href="/degree">Link</a>
                                             </li>
                                             <li class="nav-item dropdown">
                                                 <a
                                                     class="nav-link dropdown-toggle"
-                                                    href="/degree-overview.html)"
+                                                    href="/degree"
                                                     id="navbarDropdown"
                                                     role="button"
                                                     data-bs-toggle="dropdown"
@@ -1793,16 +1793,16 @@
                                                     Dropdown
                                                 </a>
                                                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                                    <li><a class="dropdown-item" href="/degree-overview.html)">Action</a></li>
-                                                    <li><a class="dropdown-item" href="/degree-overview.html)">Another action</a></li>
+                                                    <li><a class="dropdown-item" href="/degree">Action</a></li>
+                                                    <li><a class="dropdown-item" href="/degree">Another action</a></li>
                                                     <li><hr class="dropdown-divider" /></li>
-                                                    <li><a class="dropdown-item" href="/degree-overview.html)">Something else here</a></li>
+                                                    <li><a class="dropdown-item" href="/degree">Something else here</a></li>
                                                 </ul>
                                             </li>
                                             <li class="nav-item">
                                                 <a
                                                     class="nav-link disabled"
-                                                    href="/degree-overview.html)"
+                                                    href="/degree"
                                                     tabindex="-1"
                                                     aria-disabled="true"
                                                     >Disabled</a
@@ -1833,15 +1833,15 @@
                                     <div class="collapse navbar-collapse" id="navbarSupportedContent2">
                                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                                             <li class="nav-item">
-                                                <a class="nav-link active" aria-current="page" href="/degree-overview.html)">Home</a>
+                                                <a class="nav-link active" aria-current="page" href="/degree">Home</a>
                                             </li>
                                             <li class="nav-item">
-                                                <a class="nav-link" href="/degree-overview.html)">Link</a>
+                                                <a class="nav-link" href="/degree">Link</a>
                                             </li>
                                             <li class="nav-item dropdown">
                                                 <a
                                                     class="nav-link dropdown-toggle"
-                                                    href="/degree-overview.html)"
+                                                    href="/degree"
                                                     id="navbarDropdown2"
                                                     role="button"
                                                     data-bs-toggle="dropdown"
@@ -1850,16 +1850,16 @@
                                                     Dropdown
                                                 </a>
                                                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown2">
-                                                    <li><a class="dropdown-item" href="/degree-overview.html)">Action</a></li>
-                                                    <li><a class="dropdown-item" href="/degree-overview.html)">Another action</a></li>
+                                                    <li><a class="dropdown-item" href="/degree">Action</a></li>
+                                                    <li><a class="dropdown-item" href="/degree">Another action</a></li>
                                                     <li><hr class="dropdown-divider" /></li>
-                                                    <li><a class="dropdown-item" href="/degree-overview.html)">Something else here</a></li>
+                                                    <li><a class="dropdown-item" href="/degree">Something else here</a></li>
                                                 </ul>
                                             </li>
                                             <li class="nav-item">
                                                 <a
                                                     class="nav-link disabled"
-                                                    href="/degree-overview.html)"
+                                                    href="/degree"
                                                     tabindex="-1"
                                                     aria-disabled="true"
                                                     >Disabled</a
@@ -1888,11 +1888,11 @@
                         <div class="bd-example">
                             <nav aria-label="Pagination example">
                                 <ul class="pagination pagination-sm">
-                                    <li class="page-item"><a class="page-link" href="/degree-overview.html)">1</a></li>
+                                    <li class="page-item"><a class="page-link" href="/degree">1</a></li>
                                     <li class="page-item active" aria-current="page">
-                                        <a class="page-link" href="/degree-overview.html)">2</a>
+                                        <a class="page-link" href="/degree">2</a>
                                     </li>
-                                    <li class="page-item"><a class="page-link" href="/degree-overview.html)">3</a></li>
+                                    <li class="page-item"><a class="page-link" href="/degree">3</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -1901,15 +1901,15 @@
                             <nav aria-label="Standard pagination example">
                                 <ul class="pagination">
                                     <li class="page-item">
-                                        <a class="page-link" href="/degree-overview.html)" aria-label="Previous">
+                                        <a class="page-link" href="/degree" aria-label="Previous">
                                             <span aria-hidden="true">«</span>
                                         </a>
                                     </li>
-                                    <li class="page-item"><a class="page-link" href="/degree-overview.html)">1</a></li>
-                                    <li class="page-item"><a class="page-link" href="/degree-overview.html)">2</a></li>
-                                    <li class="page-item"><a class="page-link" href="/degree-overview.html)">3</a></li>
+                                    <li class="page-item"><a class="page-link" href="/degree">1</a></li>
+                                    <li class="page-item"><a class="page-link" href="/degree">2</a></li>
+                                    <li class="page-item"><a class="page-link" href="/degree">3</a></li>
                                     <li class="page-item">
-                                        <a class="page-link" href="/degree-overview.html)" aria-label="Next">
+                                        <a class="page-link" href="/degree" aria-label="Next">
                                             <span aria-hidden="true">»</span>
                                         </a>
                                     </li>
@@ -1921,15 +1921,15 @@
                             <nav aria-label="Another pagination example">
                                 <ul class="pagination pagination-lg flex-wrap">
                                     <li class="page-item disabled">
-                                        <a class="page-link" href="/degree-overview.html)" tabindex="-1" aria-disabled="true">Previous</a>
+                                        <a class="page-link" href="/degree" tabindex="-1" aria-disabled="true">Previous</a>
                                     </li>
-                                    <li class="page-item"><a class="page-link" href="/degree-overview.html)">1</a></li>
+                                    <li class="page-item"><a class="page-link" href="/degree">1</a></li>
                                     <li class="page-item active" aria-current="page">
-                                        <a class="page-link" href="/degree-overview.html)">2</a>
+                                        <a class="page-link" href="/degree">2</a>
                                     </li>
-                                    <li class="page-item"><a class="page-link" href="/degree-overview.html)">3</a></li>
+                                    <li class="page-item"><a class="page-link" href="/degree">3</a></li>
                                     <li class="page-item">
-                                        <a class="page-link" href="/degree-overview.html)">Next</a>
+                                        <a class="page-link" href="/degree">Next</a>
                                     </li>
                                 </ul>
                             </nav>
@@ -2100,7 +2100,7 @@
                     <div>
                         <div class="bd-example">
                             <nav id="navbar-example2" class="navbar navbar-light bg-light px-3">
-                                <a class="navbar-brand" href="index.html">Navbar</a>
+                                <a class="navbar-brand" href="/">Navbar</a>
                                 <ul class="nav nav-pills">
                                     <li class="nav-item">
                                         <a class="nav-link active" href="#scrollspyHeading1">First</a>
@@ -2112,7 +2112,7 @@
                                         <a
                                             class="nav-link dropdown-toggle"
                                             data-bs-toggle="dropdown"
-                                            href="/degree-overview.html)"
+                                            href="/degree"
                                             role="button"
                                             aria-expanded="false"
                                             >Dropdown</a

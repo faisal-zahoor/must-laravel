@@ -83,56 +83,56 @@
                         height="217" />
                     <h3 class="h5">Arts Society</h3>
                     <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                    <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                    <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                 </div>
                 <div class="col-md-3">
                     <img class="img-fluid" src="images/news-events/news-two.jpg" alt="Arts Society" width="280"
                         height="217" />
                     <h3 class="h5">Arts Society</h3>
                     <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                    <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                    <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                 </div>
                 <div class="col-md-3">
                     <img class="img-fluid" src="images/news-events/news-three.jpg" alt="Arts Society" width="280"
                         height="217" />
                     <h3 class="h5">Arts Society</h3>
                     <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                    <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                    <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                 </div>
                 <div class="col-md-3">
                     <img class="img-fluid" src="images/news-events/news-four.jpg" alt="Arts Society" width="280"
                         height="217" />
                     <h3 class="h5">Arts Society</h3>
                     <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                    <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                    <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                 </div>
                 <div class="col-md-3">
                     <img class="img-fluid" src="images/news-events/news-five.jpg" alt="Arts Society" width="280"
                         height="217" />
                     <h3 class="h5">Arts Society</h3>
                     <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                    <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                    <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                 </div>
                 <div class="col-md-3">
                     <img class="img-fluid" src="images/news-events/news-six.jpg" alt="Arts Society" width="280"
                         height="217" />
                     <h3 class="h5">Arts Society</h3>
                     <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                    <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                    <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                 </div>
                 <div class="col-md-3">
                     <img class="img-fluid" src="images/news-events/news-seven.jpg" alt="Arts Society" width="280"
                         height="217" />
                     <h3 class="h5">Arts Society</h3>
                     <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                    <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                    <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                 </div>
                 <div class="col-md-3">
                     <img class="img-fluid" src="images/news-events/news-eight.jpg" alt="Arts Society" width="280"
                         height="217" />
                     <h3 class="h5">Arts Society</h3>
                     <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                    <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                    <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                 </div>
             </div>
         </div>
@@ -357,7 +357,7 @@
                 <img src="images/cta-img.png" alt="Cta Img" width="120" height="56" />
                 <h2 class="h5 fw-500">Still have questions?</h2>
                 <p>Can’t find the answer you’re looking for? Please chat to our friendly team.</p>
-                <a href="contact-us.html" class="btn btn-primary">Get in touch</a>
+                <a href="contact-us" class="btn btn-primary">Get in touch</a>
             </div>
             <!--/ Call to Action -->
         </div>

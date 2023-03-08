@@ -15,9 +15,9 @@
                 Lorem Ipsum is simply dummy text of the printing <br />
                 and typesetting industry
             </p>
-            <a href="student-portal.html" class="btn btn-lg btn-primary" data-aos="fade-zoom-in" data-aos-duration="300"
+            <a href="apply-now" class="btn btn-lg btn-primary" data-aos="fade-zoom-in" data-aos-duration="300"
                 data-aos-delay="200" data-aos-easing="ease-in-sine" data-aos-once="true">Apply Now</a>
-            <a href="coming-soon.html" class="btn btn-lg btn-outline-light" data-bs-toggle="modal"
+            <a href="coming-soon" class="btn btn-lg btn-outline-light" data-bs-toggle="modal"
                 data-bs-target="#watchvideoModal" data-aos="fade-zoom-in" data-aos-duration="300" data-aos-delay="200"
                 data-aos-easing="ease-in-sine" data-aos-once="true">
                 <i class="fa fa-play"></i>
@@ -49,7 +49,7 @@
                         <h6 class="fw-500 mb-0">UOM Policies</h6>
                     </div>
                     <div class="col-md-2">
-                        <a href="coming-soon.html" class="btn btn-outline-primary">
+                        <a href="coming-soon" class="btn btn-outline-primary">
                             <span>Download</span>
                             <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
@@ -69,7 +69,7 @@
                         <h6 class="fw-500 mb-0">UOM Policies</h6>
                     </div>
                     <div class="col-md-2">
-                        <a href="coming-soon.html" class="btn btn-outline-primary">
+                        <a href="coming-soon" class="btn btn-outline-primary">
                             <span>Download</span>
                             <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
@@ -89,7 +89,7 @@
                         <h6 class="fw-500 mb-0">UOM Policies</h6>
                     </div>
                     <div class="col-md-2">
-                        <a href="coming-soon.html" class="btn btn-outline-primary">
+                        <a href="coming-soon" class="btn btn-outline-primary">
                             <span>Download</span>
                             <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
@@ -109,7 +109,7 @@
                         <h6 class="fw-500 mb-0">UOM Policies</h6>
                     </div>
                     <div class="col-md-2">
-                        <a href="coming-soon.html" class="btn btn-outline-primary">
+                        <a href="coming-soon" class="btn btn-outline-primary">
                             <span>Download</span>
                             <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
@@ -130,7 +130,7 @@
                         <h6 class="fw-500 mb-0">UOM Policies</h6>
                     </div>
                     <div class="col-md-2">
-                        <a href="coming-soon.html" class="btn btn-outline-primary">
+                        <a href="coming-soon" class="btn btn-outline-primary">
                             <span>Download</span>
                             <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
@@ -151,7 +151,7 @@
                         <h6 class="fw-500 mb-0">UOM Policies</h6>
                     </div>
                     <div class="col-md-2">
-                        <a href="coming-soon.html" class="btn btn-outline-primary">
+                        <a href="coming-soon" class="btn btn-outline-primary">
                             <span>Download</span>
                             <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
@@ -172,7 +172,7 @@
                         <h6 class="fw-500 mb-0">UOM Policies</h6>
                     </div>
                     <div class="col-md-2">
-                        <a href="coming-soon.html" class="btn btn-outline-primary">
+                        <a href="coming-soon" class="btn btn-outline-primary">
                             <span>Download</span>
                             <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
@@ -193,7 +193,7 @@
                         <h6 class="fw-500 mb-0">UOM Policies</h6>
                     </div>
                     <div class="col-md-2">
-                        <a href="coming-soon.html" class="btn btn-outline-primary">
+                        <a href="coming-soon" class="btn btn-outline-primary">
                             <span>Download</span>
                             <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
@@ -214,7 +214,7 @@
                         <h6 class="fw-500 mb-0">UOM Policies</h6>
                     </div>
                     <div class="col-md-2">
-                        <a href="coming-soon.html" class="btn btn-outline-primary">
+                        <a href="coming-soon" class="btn btn-outline-primary">
                             <span>Download</span>
                             <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
@@ -235,7 +235,7 @@
                         <h6 class="fw-500 mb-0">UOM Policies</h6>
                     </div>
                     <div class="col-md-2">
-                        <a href="coming-soon.html" class="btn btn-outline-primary">
+                        <a href="coming-soon" class="btn btn-outline-primary">
                             <span>Download</span>
                             <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
@@ -256,7 +256,7 @@
                         <h6 class="fw-500 mb-0">UOM Policies</h6>
                     </div>
                     <div class="col-md-2">
-                        <a href="/coming-soon.html" class="btn btn-outline-primary">
+                        <a href="/coming-soon" class="btn btn-outline-primary">
                             <span>Download</span>
                             <svg width="18" height="18" viewBox="0 0 18 18" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
@@ -283,7 +283,7 @@
                 <img src="images/cta-img.png" alt="Cta Img" width="120" height="56" />
                 <h2 class="h5 fw-500">Still have questions?</h2>
                 <p>Can’t find the answer you’re looking for? Please chat to our friendly team.</p>
-                <a href="contact-us.html" class="btn btn-primary">Get in touch</a>
+                <a href="contact-us" class="btn btn-primary">Get in touch</a>
             </div>
             <!--/ Call to Action -->
         </div>

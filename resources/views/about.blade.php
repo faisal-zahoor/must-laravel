@@ -10,9 +10,9 @@
         <div class="container">
             <h1 data-aos="fade-zoom-in" data-aos-duration="300" data-aos-easing="ease-in-sine" data-aos-once="true">About UOM
             </h1>
-            <a href="student-portal.html" class="btn btn-lg btn-primary" data-aos="fade-zoom-in" data-aos-duration="300"
+            <a href="apply-now" class="btn btn-lg btn-primary" data-aos="fade-zoom-in" data-aos-duration="300"
                 data-aos-delay="200" data-aos-easing="ease-in-sine" data-aos-once="true">Apply Now</a>
-            <a href="coming-soon.html" class="btn btn-lg btn-outline-light" data-bs-toggle="modal"
+            <a href="coming-soon" class="btn btn-lg btn-outline-light" data-bs-toggle="modal"
                 data-bs-target="#watchvideoModal" data-aos="fade-zoom-in" data-aos-duration="300" data-aos-delay="200"
                 data-aos-easing="ease-in-sine" data-aos-once="true">
                 <i class="fa fa-play"></i>
@@ -63,7 +63,7 @@
             <div class="row">
                 <div class="col-md-4" data-aos="fade-up" data-aos-duration="400" data-aos-delay="200"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="degree-overview.html">
+                    <a href="degree">
                         <!-- Img Overlay Text -->
                         <div class="img-overlay-text-v2">
                             <img class="img-fluid" src="images/design.jpg" alt="Design" width="380" height="444" />
@@ -86,7 +86,7 @@
 
                 <div class="col-md-4" data-aos="fade-up" data-aos-duration="400" data-aos-delay="300"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="/degree-overview.html">
+                    <a href="/degree">
                         <!-- Img Overlay Text -->
                         <div class="img-overlay-text-v2">
                             <img class="img-fluid" src="images/design.jpg" alt="Design" width="380" height="444" />
@@ -109,7 +109,7 @@
 
                 <div class="col-md-4" data-aos="fade-up" data-aos-duration="400" data-aos-delay="400"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="/degree-overview.html">
+                    <a href="/degree">
                         <!-- Img Overlay Text -->
                         <div class="img-overlay-text-v2">
                             <img class="img-fluid" src="images/design.jpg" alt="Design" width="380" height="444" />
@@ -132,7 +132,7 @@
 
                 <div class="col-md-4" data-aos="fade-up" data-aos-duration="400" data-aos-delay="500"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="/degree-overview.html">
+                    <a href="/degree">
                         <!-- Img Overlay Text -->
                         <div class="img-overlay-text-v2">
                             <img class="img-fluid" src="images/design.jpg" alt="Design" width="380"
@@ -156,7 +156,7 @@
 
                 <div class="col-md-4" data-aos="fade-up" data-aos-duration="400" data-aos-delay="600"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="/degree-overview.html">
+                    <a href="/degree">
                         <!-- Img Overlay Text -->
                         <div class="img-overlay-text-v2">
                             <img class="img-fluid" src="images/design.jpg" alt="Design" width="380"
@@ -180,7 +180,7 @@
 
                 <div class="col-md-4" data-aos="fade-up" data-aos-duration="400" data-aos-delay="700"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="/degree-overview.html">
+                    <a href="/degree">
                         <!-- Img Overlay Text -->
                         <div class="img-overlay-text-v2">
                             <img class="img-fluid" src="images/design.jpg" alt="Design" width="380"
@@ -309,7 +309,7 @@
                     </p>
                 </div>
                 <div class="col-md-6 text-right">
-                    <a href="/degree-overview.html" class="text-white fw-600 btn-icon" data-aos="fade-up"
+                    <a href="/degree" class="text-white fw-600 btn-icon" data-aos="fade-up"
                         data-aos-duration="400" data-aos-easing="ease-in-sine" data-aos-once="true">
                         <span>See More</span>
                         <i class="fa fa-arrow-right"></i>
@@ -403,7 +403,7 @@
             <div class="row">
                 <div class="col-md-4" data-aos="fade-up" data-aos-duration="400" data-aos-delay="200"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="/degree-overview.html">
+                    <a href="/degree">
                         <!-- Img Overlay Text -->
                         <div class="img-overlay-text">
                             <span class="arrow-icon">
@@ -424,7 +424,7 @@
 
                 <div class="col-md-8" data-aos="fade-up" data-aos-duration="400" data-aos-delay="300"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="/degree-overview.html">
+                    <a href="/degree">
                         <!-- Img Overlay Text -->
                         <div class="img-overlay-text">
                             <span class="arrow-icon">
@@ -445,7 +445,7 @@
 
                 <div class="col-md-4" data-aos="fade-up" data-aos-duration="400" data-aos-delay="400"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="/degree-overview.html">
+                    <a href="/degree">
                         <!-- Img Overlay Text -->
                         <div class="img-overlay-text">
                             <span class="arrow-icon">
@@ -466,7 +466,7 @@
 
                 <div class="col-md-4" data-aos="fade-up" data-aos-duration="400" data-aos-delay="500"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="/degree-overview.html">
+                    <a href="/degree">
                         <!-- Img Overlay Text -->
                         <div class="img-overlay-text">
                             <span class="arrow-icon">
@@ -487,7 +487,7 @@
 
                 <div class="col-md-4" data-aos="fade-up" data-aos-duration="400" data-aos-delay="600"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="/degree-overview.html">
+                    <a href="/degree">
                         <!-- Img Overlay Text -->
                         <div class="img-overlay-text">
                             <span class="arrow-icon">
@@ -549,56 +549,56 @@
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                         <div class="col-md-3">
                             <img class="img-fluid" src="images/news-events/news-two.jpg" alt="Arts Society"
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                         <div class="col-md-3">
                             <img class="img-fluid" src="images/news-events/news-three.jpg" alt="Arts Society"
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                         <div class="col-md-3">
                             <img class="img-fluid" src="images/news-events/news-four.jpg" alt="Arts Society"
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                         <div class="col-md-3">
                             <img class="img-fluid" src="images/news-events/news-five.jpg" alt="Arts Society"
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                         <div class="col-md-3">
                             <img class="img-fluid" src="images/news-events/news-six.jpg" alt="Arts Society"
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                         <div class="col-md-3">
                             <img class="img-fluid" src="images/news-events/news-seven.jpg" alt="Arts Society"
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                         <div class="col-md-3">
                             <img class="img-fluid" src="images/news-events/news-eight.jpg" alt="Arts Society"
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                     </div>
                 </div>
@@ -613,56 +613,56 @@
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                         <div class="col-md-3">
                             <img class="img-fluid" src="images/news-events/news-two.jpg" alt="Arts Society"
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                         <div class="col-md-3">
                             <img class="img-fluid" src="images/news-events/news-three.jpg" alt="Arts Society"
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                         <div class="col-md-3">
                             <img class="img-fluid" src="images/news-events/news-four.jpg" alt="Arts Society"
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                         <div class="col-md-3">
                             <img class="img-fluid" src="images/news-events/news-five.jpg" alt="Arts Society"
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                         <div class="col-md-3">
                             <img class="img-fluid" src="images/news-events/news-six.jpg" alt="Arts Society"
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                         <div class="col-md-3">
                             <img class="img-fluid" src="images/news-events/news-seven.jpg" alt="Arts Society"
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                         <div class="col-md-3">
                             <img class="img-fluid" src="images/news-events/news-eight.jpg" alt="Arts Society"
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                     </div>
                 </div>
@@ -677,56 +677,56 @@
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                         <div class="col-md-3">
                             <img class="img-fluid" src="images/news-events/news-two.jpg" alt="Arts Society"
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                         <div class="col-md-3">
                             <img class="img-fluid" src="images/news-events/news-three.jpg" alt="Arts Society"
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                         <div class="col-md-3">
                             <img class="img-fluid" src="images/news-events/news-four.jpg" alt="Arts Society"
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                         <div class="col-md-3">
                             <img class="img-fluid" src="images/news-events/news-five.jpg" alt="Arts Society"
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                         <div class="col-md-3">
                             <img class="img-fluid" src="images/news-events/news-six.jpg" alt="Arts Society"
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                         <div class="col-md-3">
                             <img class="img-fluid" src="images/news-events/news-seven.jpg" alt="Arts Society"
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                         <div class="col-md-3">
                             <img class="img-fluid" src="images/news-events/news-eight.jpg" alt="Arts Society"
                                 width="280" height="217" />
                             <h3 class="h5">Arts Society</h3>
                             <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                            <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                     </div>
                 </div>
@@ -1008,7 +1008,7 @@
                 <img src="images/cta-img.png" alt="Cta Img" width="120" height="56" />
                 <h2 class="h5 fw-500">Still have questions?</h2>
                 <p>Can’t find the answer you’re looking for? Please chat to our friendly team.</p>
-                <a href="/degree-overview.html)" class="btn btn-primary">Get in touch</a>
+                <a href="/degree" class="btn btn-primary">Get in touch</a>
             </div>
             <!--/ Call to Action -->
         </div>

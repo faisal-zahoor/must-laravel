@@ -34,10 +34,10 @@
             <div class="second-col">
                 <h4 class="footer-heading h8">About</h4>
                 <ul>
-                    <li><a href="vision-mission.html">Vision and Mission</a></li>
-                    <li><a href="leadership.html">Leadership</a></li>
-                    <li><a href="introduction.html">Introduction</a></li>
-                    <li><a href="governance.html">Governance</a></li>
+                    <li><a href="vision-and-mission">Vision and Mission</a></li>
+                    <li><a href="leadership">Leadership</a></li>
+                    <li><a href="introduction">Introduction</a></li>
+                    <li><a href="governance">Governance</a></li>
                 </ul>
             </div>
             <!--/ Second Col -->
@@ -47,7 +47,7 @@
                 <h4 class="footer-heading h8">Contact</h4>
 
                 <ul>
-                    <li><a href="contact-us.html">Contact Us</a></li>
+                    <li><a href="contact-us">Contact Us</a></li>
                 </ul>
             </div>
             <!--/ Third Col -->
@@ -56,7 +56,7 @@
             <div class="fourth-col">
                 <h4 class="footer-heading h8">Admission</h4>
                 <ul>
-                    <li><a href="student-portal.html">Student Portal</a></li>
+                    <li><a href="apply-now">Student Portal</a></li>
                 </ul>
             </div>
             <!--/ Fourth Col -->

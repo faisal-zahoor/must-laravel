@@ -5,7 +5,7 @@
     
     <nav class="navbar navbar-expand-lg bg-transparent fixed-top">
         <div class="container">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="/">
                 <img src="images/common/uom-logo-white.svg" alt="Multan University Logo" width="200" height="52" />
             </a>
             <button
@@ -22,7 +22,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mx-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html">Home</a>
+                        <a class="nav-link" href="/">Home</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -30,7 +30,7 @@
                         </a>
                         <ul class="dropdown-menu">
                             <li>
-                                <a class="dropdown-item" href="vision-mission.html">
+                                <a class="dropdown-item" href="vision-and-mission">
                                     <div class="di-icon">
                                         <i class="fa-solid fa-hand-peace"></i>
                                     </div>
@@ -38,7 +38,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a class="dropdown-item" href="leadership.html">
+                                <a class="dropdown-item" href="leadership">
                                     <div class="di-icon">
                                         <i class="fa-regular fa-handshake"></i>
                                     </div>
@@ -46,7 +46,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a class="dropdown-item" href="introduction.html">
+                                <a class="dropdown-item" href="introduction">
                                     <div class="di-icon">
                                         <i class="fa-solid fa-info"></i>
                                     </div>
@@ -54,7 +54,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a class="dropdown-item" href="governance.html">
+                                <a class="dropdown-item" href="governance">
                                     <div class="di-icon">
                                         <i class="fa-solid fa-user-shield"></i>
                                     </div>
@@ -65,13 +65,13 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="/student-portal.html">Admission</a>
+                        <a class="nav-link" href="addmissions">Admission</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/programs.html">Academics</a>
+                        <a class="nav-link" href="academics">Academics</a>
                     </li>
                 </ul>
-                <a href="/student-portal.html" class="btn btn-primary">Apply Now</a>
+                <a href="addmissions" class="btn btn-primary">Apply Now</a>
             </div>
         </div>
     </nav>

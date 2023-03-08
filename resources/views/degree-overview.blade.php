@@ -168,9 +168,9 @@
             <div class="offset-md-1 col-md-5">
                 <div class="card card-admission-form" data-aos="fade-up" data-aos-duration="400"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="student-portal.html" class="btn btn-primary">Apply Now</a>
+                    <a href="apply-now" class="btn btn-primary">Apply Now</a>
                     <a href="javascript:void(0)" class="btn btn-light">Download Admission Form</a>
-                    <p class="text-center mb-0">Need Help About this Program? <a href="contact-us.html"> Get In
+                    <p class="text-center mb-0">Need Help About this Program? <a href="contact-us"> Get In
                             Touch</a></p>
                 </div>
             </div>
@@ -193,7 +193,7 @@
                 </p>
             </div>
             <div class="col-md-6 text-right">
-                <a href="degree-overview.html" class="text-white fw-600 btn-icon" data-aos="fade-up"
+                <a href="degree" class="text-white fw-600 btn-icon" data-aos="fade-up"
                     data-aos-duration="400" data-aos-easing="ease-in-sine" data-aos-once="true">
                     <span>See More</span>
                     <i class="fa fa-arrow-right"></i>
@@ -218,7 +218,7 @@
                                     lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
                                     Ipsum has been.
                                 </p>
-                                <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                                <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                             </div>
                             <!--/ Iot Content -->
                         </div>
@@ -237,7 +237,7 @@
                                     lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
                                     Ipsum has been.
                                 </p>
-                                <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                                <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                             </div>
                             <!--/ Iot Content -->
                         </div>
@@ -256,7 +256,7 @@
                                     lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
                                     Ipsum has been.
                                 </p>
-                                <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                                <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                             </div>
                             <!--/ Iot Content -->
                         </div>
@@ -339,7 +339,7 @@
             <img src="images/cta-img.png" alt="Cta Img" width="120" height="56" />
             <h2 class="h5 fw-500">Still have questions?</h2>
             <p>Can’t find the answer you’re looking for? Please chat to our friendly team.</p>
-            <a href="contact-us.html" class="btn btn-primary">Get in touch</a>
+            <a href="contact-us" class="btn btn-primary">Get in touch</a>
         </div>
         <!--/ Call to Action -->
     </div>

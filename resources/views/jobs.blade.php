@@ -60,7 +60,7 @@
                                             </button>
                                         </td>
                                         <td>
-                                            <a href="student-portal.html" class="btn btn-primary">Apply Now</a>
+                                            <a href="apply-now" class="btn btn-primary">Apply Now</a>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -119,7 +119,7 @@
                                             </button>
                                         </td>
                                         <td>
-                                            <a href="student-portal.html" class="btn btn-primary">Apply Now</a>
+                                            <a href="apply-now" class="btn btn-primary">Apply Now</a>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -178,7 +178,7 @@
                                             </button>
                                         </td>
                                         <td>
-                                            <a href="student-portal.html" class="btn btn-primary">Apply Now</a>
+                                            <a href="apply-now" class="btn btn-primary">Apply Now</a>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -225,7 +225,7 @@
                 <img src="images/cta-img.png" alt="Cta Img" width="120" height="56" />
                 <h2 class="h5 fw-500">Still have questions?</h2>
                 <p>Can’t find the answer you’re looking for? Please chat to our friendly team.</p>
-                <a href="/contact-us.html" class="btn btn-primary">Get in touch</a>
+                <a href="/contact-us" class="btn btn-primary">Get in touch</a>
             </div>
             <!--/ Call to Action -->
         </div>

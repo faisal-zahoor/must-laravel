@@ -29,10 +29,10 @@
                             We committed to provide our students the knowledge, skills, <br />
                             and resources they need to become leaders in their chosen fields.
                         </p>
-                        <a href="student-portal.html" class="btn btn-lg btn-primary" data-aos="fade-zoom-in"
+                        <a href="apply-now" class="btn btn-lg btn-primary" data-aos="fade-zoom-in"
                             data-aos-duration="300" data-aos-delay="200" data-aos-easing="ease-in-sine"
                             data-aos-once="true">Apply Now</a>
-                        <a href="coming-soon.html" class="btn btn-lg btn-outline-light" data-bs-toggle="modal"
+                        <a href="coming-soon" class="btn btn-lg btn-outline-light" data-bs-toggle="modal"
                             data-bs-target="#watchvideoModal" data-aos="fade-zoom-in" data-aos-duration="300"
                             data-aos-delay="200" data-aos-easing="ease-in-sine" data-aos-once="true">
                             <i class="fa fa-play"></i>
@@ -52,10 +52,10 @@
                             We committed to provide our students the knowledge, skills, <br />
                             and resources they need to become leaders in their chosen fields.
                         </p>
-                        <a href="/student-portal.html" class="btn btn-lg btn-primary" data-aos="fade-zoom-in"
+                        <a href="addmissions" class="btn btn-lg btn-primary" data-aos="fade-zoom-in"
                             data-aos-duration="300" data-aos-delay="200" data-aos-easing="ease-in-sine"
                             data-aos-once="true">Apply Now</a>
-                        <a href="coming-soon.html" class="btn btn-lg btn-outline-light" data-bs-toggle="modal"
+                        <a href="coming-soon" class="btn btn-lg btn-outline-light" data-bs-toggle="modal"
                             data-bs-target="#watchvideoModal" data-aos="fade-zoom-in" data-aos-duration="300"
                             data-aos-delay="200" data-aos-easing="ease-in-sine" data-aos-once="true">
                             <i class="fa fa-play"></i>
@@ -75,10 +75,10 @@
                             We committed to provide our students the knowledge, skills, <br />
                             and resources they need to become leaders in their chosen fields.
                         </p>
-                        <a href="/student-portal.html" class="btn btn-lg btn-primary" data-aos="fade-zoom-in"
+                        <a href="addmissions" class="btn btn-lg btn-primary" data-aos="fade-zoom-in"
                             data-aos-duration="300" data-aos-delay="200" data-aos-easing="ease-in-sine"
                             data-aos-once="true">Apply Now</a>
-                        <a href="coming-soon.html" class="btn btn-lg btn-outline-light" data-bs-toggle="modal"
+                        <a href="coming-soon" class="btn btn-lg btn-outline-light" data-bs-toggle="modal"
                             data-bs-target="#watchvideoModal" data-aos="fade-zoom-in" data-aos-duration="300"
                             data-aos-delay="200" data-aos-easing="ease-in-sine" data-aos-once="true">
                             <i class="fa fa-play"></i>
@@ -104,7 +104,7 @@
                     data-aos-easing="ease-in-sine" data-aos-once="true">
                     <h2>How To Apply</h2>
                     <p>Unlock Your Potential: Step-by-Step Guide to Applying for University Of Multan</p>
-                    <a href="/student-portal.html" class="text-primary fw-600 btn-icon">
+                    <a href="addmissions" class="text-primary fw-600 btn-icon">
                         <span>Apply Now</span>
                         <i class="fa fa-arrow-right"></i>
                     </a>
@@ -132,7 +132,7 @@
                         to providing
                         students with an exceptional learning experience.
                     </p>
-                    <a href="about.html" class="text-primary fw-600 btn-icon">
+                    <a href="about" class="text-primary fw-600 btn-icon">
                         <span>Learn More</span>
                         <i class="fa fa-arrow-right"></i>
                     </a>
@@ -245,7 +245,7 @@
                     </p>
                 </div>
                 <div class="col-md-6 text-right">
-                    <a href="degree-overview.html" class="text-white fw-600 btn-icon" data-aos="fade-up"
+                    <a href="degree" class="text-white fw-600 btn-icon" data-aos="fade-up"
                         data-aos-duration="400" data-aos-easing="ease-in-sine" data-aos-once="true">
                         <span>See More</span>
                         <i class="fa fa-arrow-right"></i>
@@ -270,7 +270,7 @@
                                         lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
                                         Ipsum has been.
                                     </p>
-                                    <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                                    <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                                 </div>
                                 <!--/ Iot Content -->
                             </div>
@@ -289,7 +289,7 @@
                                         lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
                                         Ipsum has been.
                                     </p>
-                                    <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                                    <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                                 </div>
                                 <!--/ Iot Content -->
                             </div>
@@ -308,7 +308,7 @@
                                         lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
                                         Ipsum has been.
                                     </p>
-                                    <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                                    <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                                 </div>
                                 <!--/ Iot Content -->
                             </div>
@@ -342,7 +342,7 @@
             <div class="row">
                 <div class="col-md-4" data-aos="fade-up" data-aos-duration="400" data-aos-delay="200"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="/degree-overview.html">
+                    <a href="/degree">
                         <!-- Img Overlay Text -->
                         <div class="img-overlay-text">
                             <span class="arrow-icon">
@@ -363,7 +363,7 @@
 
                 <div class="col-md-8" data-aos="fade-up" data-aos-duration="400" data-aos-delay="300"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="/degree-overview.html">
+                    <a href="/degree">
                         <!-- Img Overlay Text -->
                         <div class="img-overlay-text">
                             <span class="arrow-icon">
@@ -384,7 +384,7 @@
 
                 <div class="col-md-4" data-aos="fade-up" data-aos-duration="400" data-aos-delay="400"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="/degree-overview.html">
+                    <a href="/degree">
                         <!-- Img Overlay Text -->
                         <div class="img-overlay-text">
                             <span class="arrow-icon">
@@ -405,7 +405,7 @@
 
                 <div class="col-md-4" data-aos="fade-up" data-aos-duration="400" data-aos-delay="500"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="/degree-overview.html">
+                    <a href="/degree">
                         <!-- Img Overlay Text -->
                         <div class="img-overlay-text">
                             <span class="arrow-icon">
@@ -426,7 +426,7 @@
 
                 <div class="col-md-4" data-aos="fade-up" data-aos-duration="400" data-aos-delay="600"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="/degree-overview.html">
+                    <a href="/degree">
                         <!-- Img Overlay Text -->
                         <div class="img-overlay-text">
                             <span class="arrow-icon">
@@ -447,7 +447,7 @@
 
                 <div class="col-md-4" data-aos="fade-up" data-aos-duration="400" data-aos-delay="600"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="/degree-overview.html">
+                    <a href="/degree">
                         <!-- Img Overlay Text -->
                         <div class="img-overlay-text">
                             <span class="arrow-icon">
@@ -504,84 +504,6 @@
                 <div class="tab-pane fade show active" id="news-tab-pane" role="tabpanel" aria-labelledby="news-tab"
                     tabindex="0">
                     <h1>Comming soon!</h1>
-
-                    <!-- <div
-                                    class="row"
-                                    data-aos="fade-up"
-                                    data-aos-duration="400"
-                                    data-aos-delay="300"
-                                    data-aos-easing="ease-in-sine"
-                                    data-aos-once="true"
-                                >
-                                <div class="col-md-3">
-                                    <img class="img-fluid" src="images/events/government-of-punjab-visit 1.jpg" alt="Visit" width="280" height="217" />
-                                    <h3 class="h5">Gov of Punjab visit</h3>
-                                    <p class="small">The Government of Punjab’s committee consisting of  </p>
-                                    <a href="events.html" class="btn btn-outline-secondary">See More</a>
-                                </div>
-
-                                
-                                    <div class="col-md-3">
-                                        <img class="img-fluid" src="images/events/hec-vist-1.jpg" alt="visit" width="280" height="217" />
-                                        <h3 class="h5">HEC Visit</h3>
-                                        <p class="small">The Higher Education Commission Visits the Multan </p>
-                                        <a href="events.html" class="btn btn-outline-secondary">Learn More</a>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <img
-                                            class="img-fluid"
-                                            src="images/news-events/news-three.jpg"
-                                            alt="Arts Society"
-                                            width="280"
-                                            height="217"
-                                        />
-                                        <h3 class="h5">Arts Society</h3>
-                                        <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                                        <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <img class="img-fluid" src="images/news-events/news-four.jpg" alt="Arts Society" width="280" height="217" />
-                                        <h3 class="h5">Arts Society</h3>
-                                        <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                                        <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <img class="img-fluid" src="images/news-events/news-five.jpg" alt="Arts Society" width="280" height="217" />
-                                        <h3 class="h5">Arts Society</h3>
-                                        <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                                        <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <img class="img-fluid" src="images/news-events/news-six.jpg" alt="Arts Society" width="280" height="217" />
-                                        <h3 class="h5">Arts Society</h3>
-                                        <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                                        <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <img
-                                            class="img-fluid"
-                                            src="images/news-events/news-seven.jpg"
-                                            alt="Arts Society"
-                                            width="280"
-                                            height="217"
-                                        />
-                                        <h3 class="h5">Arts Society</h3>
-                                        <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                                        <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <img
-                                            class="img-fluid"
-                                            src="images/news-events/news-eight.jpg"
-                                            alt="Arts Society"
-                                            width="280"
-                                            height="217"
-                                        />
-                                        <h3 class="h5">Arts Society</h3>
-                                        <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                                        <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
-                                    </div>
-                                </div> -->
                 </div>
                 <!--/ News Tab -->
                 <!-- Campus Tab -->
@@ -589,74 +511,6 @@
                     tabindex="0">
                     <h1>Comming soon!</h1>
 
-                    <!-- <div class="row">
-                                    <div class="col-md-3">
-                                        <img class="img-fluid" src="images/news-events/news-one.jpg" alt="Arts Society" width="280" height="217" />
-                                        <h3 class="h5">Arts Society</h3>
-                                        <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                                        <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <img class="img-fluid" src="images/news-events/news-two.jpg" alt="Arts Society" width="280" height="217" />
-                                        <h3 class="h5">Arts Society</h3>
-                                        <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                                        <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <img
-                                            class="img-fluid"
-                                            src="images/news-events/news-three.jpg"
-                                            alt="Arts Society"
-                                            width="280"
-                                            height="217"
-                                        />
-                                        <h3 class="h5">Arts Society</h3>
-                                        <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                                        <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <img class="img-fluid" src="images/news-events/news-four.jpg" alt="Arts Society" width="280" height="217" />
-                                        <h3 class="h5">Arts Society</h3>
-                                        <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                                        <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <img class="img-fluid" src="images/news-events/news-five.jpg" alt="Arts Society" width="280" height="217" />
-                                        <h3 class="h5">Arts Society</h3>
-                                        <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                                        <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <img class="img-fluid" src="images/news-events/news-six.jpg" alt="Arts Society" width="280" height="217" />
-                                        <h3 class="h5">Arts Society</h3>
-                                        <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                                        <a href="/degree-overview.html)" class="btn btn-outline-secondary">Learn More</a>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <img
-                                            class="img-fluid"
-                                            src="images/news-events/news-seven.jpg"
-                                            alt="Arts Society"
-                                            width="280"
-                                            height="217"
-                                        />
-                                        <h3 class="h5">Arts Society</h3>
-                                        <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                                        <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <img
-                                            class="img-fluid"
-                                            src="images/news-events/news-eight.jpg"
-                                            alt="Arts Society"
-                                            width="280"
-                                            height="217"
-                                        />
-                                        <h3 class="h5">Arts Society</h3>
-                                        <p class="small">Lorem Ipsum is simply dummy text of the printing and</p>
-                                        <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
-                                    </div>
-                                </div> -->
                 </div>
                 <!--/ Campus Tab -->
 
@@ -670,7 +524,7 @@
                                 width="280" height="217" />
                             <h3 class="h5">Gov of Punjab visit</h3>
                             <p class="small">The Government of Punjab’s committee consisting of </p>
-                            <a href="events.html" class="btn btn-outline-secondary">See More</a>
+                            <a href="event" class="btn btn-outline-secondary">See More</a>
                         </div>
 
 
@@ -679,7 +533,7 @@
                                 height="217" />
                             <h3 class="h5">HEC Visit</h3>
                             <p class="small">The Higher Education Commission Visits the Multan </p>
-                            <a href="events.html" class="btn btn-outline-secondary">Learn More</a>
+                            <a href="event" class="btn btn-outline-secondary">Learn More</a>
                         </div>
                     </div>
                 </div>
@@ -888,7 +742,7 @@
                 <img src="images/cta-img.png" alt="Cta Img" width="120" height="56" />
                 <h2 class="h5 fw-500">Still have questions?</h2>
                 <p>Can’t find the answer you’re looking for? Please chat to our friendly team.</p>
-                <a href="/contact-us.html" class="btn btn-primary">Get in touch</a>
+                <a href="/contact-us" class="btn btn-primary">Get in touch</a>
             </div>
             <!--/ Call to Action -->
         </div>

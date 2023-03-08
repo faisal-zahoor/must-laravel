@@ -55,18 +55,18 @@
                                         </div>
                                     </div>
                                     <div class="col-md-5 text-right">
-                                        <a href="coming-soon.html" class="forgot-password">Forgot Password?</a>
+                                        <a href="coming-soon" class="forgot-password">Forgot Password?</a>
                                     </div>
                                 </div>
                             </div>
 
-                            <a href="coming-soon.html" class="btn btn-primary d-block">Continue</a>
+                            <a href="coming-soon" class="btn btn-primary d-block">Continue</a>
                             <a href="javascript:void(0)" class="btn btn-outline-secondary d-block">
                                 <img src="images/contact/google-icon.png" alt="Google Icon" />
                                 <span>Sign in with Google</span>
                             </a>
 
-                            <p class="signup-text">Don’t have an account?<a href="coming-soon.html" class="fw-600"> Sign
+                            <p class="signup-text">Don’t have an account?<a href="coming-soon" class="fw-600"> Sign
                                     up</a></p>
                         </div>
                         <!--/ CL Body -->
@@ -92,7 +92,7 @@
                     </p>
                 </div>
                 <div class="col-md-6 text-right">
-                    <a href="degree-overview.html" class="text-white fw-600 btn-icon" data-aos="fade-up"
+                    <a href="degree" class="text-white fw-600 btn-icon" data-aos="fade-up"
                         data-aos-duration="400" data-aos-easing="ease-in-sine" data-aos-once="true">
                         <span>See More</span>
                         <i class="fa fa-arrow-right"></i>
@@ -116,7 +116,7 @@
                                         lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
                                         Ipsum has been.
                                     </p>
-                                    <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                                    <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                                 </div>
                                 <!--/ Iot Content -->
                             </div>
@@ -135,7 +135,7 @@
                                         lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
                                         Ipsum has been.
                                     </p>
-                                    <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                                    <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                                 </div>
                                 <!--/ Iot Content -->
                             </div>
@@ -154,7 +154,7 @@
                                         lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
                                         Ipsum has been.
                                     </p>
-                                    <a href="/degree-overview.html" class="btn btn-outline-secondary">Learn More</a>
+                                    <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
                                 </div>
                                 <!--/ Iot Content -->
                             </div>
@@ -188,7 +188,7 @@
             <div class="row">
                 <div class="col-md-4" data-aos="fade-up" data-aos-duration="400" data-aos-delay="200"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="degree-overview.html">
+                    <a href="degree">
                         <!-- Img Overlay Text -->
                         <div class="img-overlay-text">
                             <span class="arrow-icon">
@@ -209,7 +209,7 @@
 
                 <div class="col-md-8" data-aos="fade-up" data-aos-duration="400" data-aos-delay="300"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="degree-overview.html">
+                    <a href="degree">
                         <!-- Img Overlay Text -->
                         <div class="img-overlay-text">
                             <span class="arrow-icon">
@@ -230,7 +230,7 @@
 
                 <div class="col-md-4" data-aos="fade-up" data-aos-duration="400" data-aos-delay="400"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="/degree-overview.html">
+                    <a href="/degree">
                         <!-- Img Overlay Text -->
                         <div class="img-overlay-text">
                             <span class="arrow-icon">
@@ -251,7 +251,7 @@
 
                 <div class="col-md-4" data-aos="fade-up" data-aos-duration="400" data-aos-delay="500"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="degree-overview.html">
+                    <a href="degree">
                         <!-- Img Overlay Text -->
                         <div class="img-overlay-text">
                             <span class="arrow-icon">
@@ -272,7 +272,7 @@
 
                 <div class="col-md-4" data-aos="fade-up" data-aos-duration="400" data-aos-delay="600"
                     data-aos-easing="ease-in-sine" data-aos-once="true">
-                    <a href="degree-overview.html">
+                    <a href="degree">
                         <!-- Img Overlay Text -->
                         <div class="img-overlay-text">
                             <span class="arrow-icon">
@@ -355,7 +355,7 @@
                 <img src="images/cta-img.png" alt="Cta Img" width="120" height="56" />
                 <h2 class="h5 fw-500">Still have questions?</h2>
                 <p>Can’t find the answer you’re looking for? Please chat to our friendly team.</p>
-                <a href="/contact-us.html" class="btn btn-primary">Get in touch</a>
+                <a href="/contact-us" class="btn btn-primary">Get in touch</a>
             </div>
             <!--/ Call to Action -->
         </div>
