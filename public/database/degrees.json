@@ -1,0 +1,64 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "name": "Under-Greduate"
+    },
+    {
+      "id": 2,
+      "name": "Greduate"
+    }
+  ],
+
+  "faculties": [
+    {
+      "id": 1,
+      "name": "Faculty of Computer & Information Technology",
+      "level_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Faculty of Arts & Social Sciences",
+      "level_id": 2
+    }
+  ],
+
+  "departments": [
+    {
+      "id": 1,
+      "name": "Department of Computing & Information Technology",
+      "faculty_id": 1
+    },
+    {
+      "id": 2,
+      "name": "Department of Psychology",
+      "faculty_id": 2
+    },
+    {
+      "id": 3,
+      "name": "Department of Education",
+      "faculty_id": 2
+    }
+  ],
+
+  "programs": [
+    {
+      "id": 1,
+      "name": "BSCS",
+      "duration": "4 Years",
+      "department_id": 1
+    },
+    {
+      "id": 2,
+      "name": "BS Psychoogy",
+      "duration": "4 Years",
+      "department_id": 2
+    },
+    {
+      "id": 3,
+      "name": "BS Education",
+      "duration": "4 Years",
+      "department_id": 2
+    }
+  ]
+}
