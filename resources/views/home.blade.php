@@ -242,7 +242,7 @@
                     </p>
                 </div>
                 <div class="col-md-6 text-right">
-                    <a href="degree" class="text-white fw-600 btn-icon" data-aos="fade-up"
+                    <a href="{{ URL('academics') }}" class="text-white fw-600 btn-icon" data-aos="fade-up"
                         data-aos-duration="400" data-aos-easing="ease-in-sine" data-aos-once="true">
                         <span>See More</span>
                         <i class="fa fa-arrow-right"></i>
