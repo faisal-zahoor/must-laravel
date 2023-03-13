@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Program;
+use App\Event;
 
 class Home extends Controller
 {
@@ -16,8 +17,9 @@ class Home extends Controller
     public function __invoke(Request $request)
     {   
         $programs = Program::all();
+        $events = Event::all();
         
-        $data = compact("programs");
+        $data = compact("programs", "events");
         return view("home")->with($data);
     }
 }

@@ -441,7 +441,13 @@
             <ul class="nav nav-tabs" id="newsEventsTab" role="tablist" data-aos="fade-up" data-aos-duration="400"
                 data-aos-delay="200" data-aos-easing="ease-in-sine" data-aos-once="true">
                 <li class="nav-item" role="presentation">
-                    <button class="nav-link active" id="news-tab" data-bs-toggle="tab" data-bs-target="#news-tab-pane"
+                    <button class="nav-link active" id="event-tab" data-bs-toggle="tab" data-bs-target="#event-tab-pane"
+                        type="button" role="tab" aria-controls="event-tab-pane" aria-selected="false">
+                        Events
+                    </button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link" id="news-tab" data-bs-toggle="tab" data-bs-target="#news-tab-pane"
                         type="button" role="tab" aria-controls="news-tab-pane" aria-selected="true">
                         News
                     </button>
@@ -452,49 +458,39 @@
                         Campus News
                     </button>
                 </li>
-                <li class="nav-item" role="presentation">
-                    <button class="nav-link" id="event-tab" data-bs-toggle="tab" data-bs-target="#event-tab-pane"
-                        type="button" role="tab" aria-controls="event-tab-pane" aria-selected="false">
-                        Events
-                    </button>
-                </li>
             </ul>
+
             <div class="tab-content" id="newsEventsTabContent">
                 <!-- News Tab -->
-                <div class="tab-pane fade show active" id="news-tab-pane" role="tabpanel" aria-labelledby="news-tab"
+                <div class="tab-pane fade" id="news-tab-pane" role="tabpanel" aria-labelledby="news-tab"
                     tabindex="0">
-                    <h1>Comming soon!</h1>
+                    <h1>Coming soon!</h1>
                 </div>
                 <!--/ News Tab -->
+          
                 <!-- Campus Tab -->
                 <div class="tab-pane fade" id="campus-tab-pane" role="tabpanel" aria-labelledby="campus-tab"
                     tabindex="0">
-                    <h1>Comming soon!</h1>
+                    <h1>Coming soon!</h1>
 
                 </div>
                 <!--/ Campus Tab -->
 
                 <!-- Events Tab -->
-                <div class="tab-pane fade" id="event-tab-pane" role="tabpanel" aria-labelledby="event-tab"
+                <div class="tab-pane fade show active" id="event-tab-pane" role="tabpanel" aria-labelledby="event-tab"
                     tabindex="0">
                     <div class="row" data-aos="fade-up" data-aos-duration="400" data-aos-delay="300"
                         data-aos-easing="ease-in-sine" data-aos-once="true">
+                       
+                        @foreach ($events as $event)
                         <div class="col-md-3">
-                            <img class="img-fluid" src="images/events/government-of-punjab-visit 1.jpg" alt="Visit"
-                                width="280" height="217" />
-                            <h3 class="h5">Gov of Punjab visit</h3>
-                            <p class="small">The Government of Punjab’s committee consisting of </p>
-                            <a href="event" class="btn btn-outline-secondary">See More</a>
+                            <img class="img-fluid" src="{{ URL('storage/'.$event->image) }}" alt="{{ $event->title }}" width="280" height="217" />
+                            
+                            <h3 class="h5">{{ $event->title }}</h3>
+                            <p class="small" style="width:100%; overflow:hidden; text-overflow: ellipsis; white-space: nowrap;">{{ $event->desc }} </p>
+                            <a href="{{ URL('event/'.$event->id) }}" class="btn btn-outline-secondary">See More</a>
                         </div>
-
-
-                        <div class="col-md-3">
-                            <img class="img-fluid" src="images/events/hec-vist-1.jpg" alt="visit" width="280"
-                                height="217" />
-                            <h3 class="h5">HEC Visit</h3>
-                            <p class="small">The Higher Education Commission Visits the Multan </p>
-                            <a href="event" class="btn btn-outline-secondary">Learn More</a>
-                        </div>
+                        @endforeach
                     </div>
                 </div>
                 <!--/ Events Tab -->
