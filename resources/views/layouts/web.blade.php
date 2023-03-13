@@ -19,7 +19,7 @@
         <meta name="theme-color" content="#ffffff" />
 
         <!-- Style CSS -->
-        <link rel="stylesheet" href="css/style.css" />
+        <link rel="stylesheet" href="{{ URL('css/style.css')}}" />
     </head>
 
     <body>
@@ -34,11 +34,11 @@
         <!--/ Footer -->
 
         <!-- Popper -->
-        <script src="js/popper.js"></script>
+        <script src="{{ URL('js/popper.js') }}"></script>
         <!--/ Popper -->
 
         <!-- Script Js -->
-        <script src="js/script.js"></script>
+        <script src="{{ URL('js/script.js') }}"></script>
         <!--/ Script Js -->
 
         <!-- Watch Video Modal -->

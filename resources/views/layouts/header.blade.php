@@ -6,7 +6,7 @@
     <nav class="navbar navbar-expand-lg bg-transparent fixed-top">
         <div class="container">
             <a class="navbar-brand" href="/">
-                <img src="images/common/uom-logo-white.svg" alt="Multan University Logo" width="200" height="52" />
+                <img src="{{ URL('images/common/uom-logo-white.svg') }}" alt="Multan University Logo" width="200" height="52" />
             </a>
             <button
                 class="navbar-toggler"
@@ -22,7 +22,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav mx-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="/">Home</a>
+                        <a class="nav-link" href="{{ URL('/')}}">Home</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -30,7 +30,7 @@
                         </a>
                         <ul class="dropdown-menu">
                             <li>
-                                <a class="dropdown-item" href="vision-and-mission">
+                                <a class="dropdown-item" href="{{ URL('vision-and-mission')}}">
                                     <div class="di-icon">
                                         <i class="fa-solid fa-hand-peace"></i>
                                     </div>
@@ -38,7 +38,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a class="dropdown-item" href="leadership">
+                                <a class="dropdown-item" href="{{ URL('leadership')}}">
                                     <div class="di-icon">
                                         <i class="fa-regular fa-handshake"></i>
                                     </div>
@@ -46,7 +46,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a class="dropdown-item" href="introduction">
+                                <a class="dropdown-item" href="{{ URL('introduction')}}">
                                     <div class="di-icon">
                                         <i class="fa-solid fa-info"></i>
                                     </div>
@@ -54,7 +54,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a class="dropdown-item" href="governance">
+                                <a class="dropdown-item" href="{{ URL('governance')}}">
                                     <div class="di-icon">
                                         <i class="fa-solid fa-user-shield"></i>
                                     </div>
@@ -65,13 +65,13 @@
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link" href="apply-now">Admission</a>
+                        <a class="nav-link" href="{{ URL('apply-now')}}">Admission</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="academics">Academics</a>
+                        <a class="nav-link" href="{{ URL('academics')}}">Academics</a>
                     </li>
                 </ul>
-                <a href="apply-now" class="btn btn-primary">Apply Now</a>
+                <a href="{{ URL('apply-now')}}" class="btn btn-primary">Apply Now</a>
             </div>
         </div>
     </nav>

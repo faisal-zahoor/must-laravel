@@ -255,62 +255,25 @@
                 data-aos-easing="ease-in-sine" data-aos-once="true">
                 <div class="glide__track" data-glide-el="track">
                     <ul class="glide__slides">
+                        @foreach ($programs as $program)
                         <li class="glide__slide">
                             <!-- Img Overlay Text -->
                             <div class="img-overlay-text">
-                                <img class="img-fluid" src="images/hrm.jpg" alt="hrm" width="584"
-                                    height="383" />
-                                <!-- Iot Content -->
-                                <div class="iot-content">
-                                    <h3 class="h4">HRM</h3>
-                                    <p>
-                                        lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been.
-                                    </p>
-                                    <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
-                                </div>
-                                <!--/ Iot Content -->
-                            </div>
-                            <!--/ Img Overlay Text -->
-                        </li>
+                                <img class="img-fluid" src="{{ URL('storage/'.$program->image)}}" alt="{{ $program->name }}" width="584" height="383" />
 
-                        <li class="glide__slide">
-                            <!-- Img Overlay Text -->
-                            <div class="img-overlay-text">
-                                <img class="img-fluid" src="images/hrm.jpg" alt="hrm" width="584"
-                                    height="383" />
                                 <!-- Iot Content -->
                                 <div class="iot-content">
-                                    <h3 class="h4">HRM</h3>
+                                    <h3 class="h4"> {{ $program->name }}</h3>
                                     <p>
-                                        lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been.
+                                        {{ $program->description }}
                                     </p>
-                                    <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
+                                    <a href="/degree/{{ $program->id }}" class="btn btn-outline-secondary">Learn More</a>
                                 </div>
                                 <!--/ Iot Content -->
                             </div>
                             <!--/ Img Overlay Text -->
                         </li>
-
-                        <li class="glide__slide">
-                            <!-- Img Overlay Text -->
-                            <div class="img-overlay-text">
-                                <img class="img-fluid" src="images/hrm.jpg" alt="hrm" width="584"
-                                    height="383" />
-                                <!-- Iot Content -->
-                                <div class="iot-content">
-                                    <h3 class="h4">HRM</h3>
-                                    <p>
-                                        lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
-                                        Ipsum has been.
-                                    </p>
-                                    <a href="/degree" class="btn btn-outline-secondary">Learn More</a>
-                                </div>
-                                <!--/ Iot Content -->
-                            </div>
-                            <!--/ Img Overlay Text -->
-                        </li>
+                        @endforeach
                     </ul>
                 </div>
 
@@ -730,19 +693,4 @@
     </div>
     <!--/ Accredited -->
 
-    <!-- CTA Wrap -->
-    <div class="cta-wrap" data-aos="fade-up" data-aos-duration="400" data-aos-delay="300"
-        data-aos-easing="ease-in-sine" data-aos-once="true">
-        <div class="container">
-            <!-- Call to Action -->
-            <div class="call-to-action">
-                <img src="images/cta-img.png" alt="Cta Img" width="120" height="56" />
-                <h2 class="h5 fw-500">Still have questions?</h2>
-                <p>Can’t find the answer you’re looking for? Please chat to our friendly team.</p>
-                <a href="/contact-us" class="btn btn-primary">Get in touch</a>
-            </div>
-            <!--/ Call to Action -->
-        </div>
-    </div>
-    <!--/ CTA Wrap -->
 @endsection

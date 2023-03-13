@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg top-bar">
     <div class="container">
-        <a class="nav-link" href="coming-soon">Student Portal</a>
+        <a class="nav-link" href="{{ URL('coming-soon') }}">Student Portal</a>
 
         <ul class="navbar-nav">
             <li class="nav-item">
