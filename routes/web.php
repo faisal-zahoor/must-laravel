@@ -17,6 +17,10 @@ Route::get('/', function () {
     return view('home');
 });
 
+Route::get('/phpinfo', function() {
+    return phpinfo();
+});
+
 Route::get('about', function () {
     return view('about');
 });
@@ -71,4 +75,9 @@ Route::get('policies', function () {
 
 Route::get('apply-now', function () {
     return view('apply-now');
+});
+
+
+Route::group(['prefix' => 'admin'], function () {
+    Voyager::routes();
 });
